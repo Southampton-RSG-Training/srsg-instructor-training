@@ -1,8 +1,8 @@
 ---
 title: Motivation and Demotivation
 block: Creating a Positive Learning Environment
-teaching: 30
-exercises: 30
+teaching: 15
+exercises: 15
 ---
 
 ::::::::::::::::::::::::::::::::::::::: objectives
@@ -10,6 +10,8 @@ exercises: 30
 - Identify authentic tasks and explain why teaching them is important.
 - Develop strategies to avoid demotivating learners.
 - Distinguish praise based feedback on the type of mindset it promotes.
+- Recognise systemic factors that can distract and demotivate learners.
+- Understand the role of The Carpentries Code of Conduct in maintaining an explicitly inclusive environment.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -17,55 +19,75 @@ exercises: 30
 
 - Why is motivation important?
 - How can we create a motivating environment for learners?
+- Why are equity, inclusion, and accessibility important?
+- What can I do to enhance equity, inclusion, and accessibility in my workshop?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
 :::::::::::::::::::::::::::::::::::::::instructor
-In an online training, ensure that captions are turned on, that one trainer claims host, and that the host adds other trainers as co-hosts. 
-The host key is in the email to trainers from the core team prior to the training. 
+
+In an online training, ensure that captions are turned on, that one
+trainer claims host, and that the host adds other trainers as co-hosts.
+The host key is in the email to trainers from the core team prior to the
+training.
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Motivation Matters
 
-Teaching and learning are not the same process. As we have seen, an instructor can make choices that facilitate the cognitive processes
-necessary for learning to occur. But **any technique can fall flat when learners are not motivated**. Worse, demotivation is contagious! Teaching or sharing a classroom with demotivated
-learners is not fun or rewarding. It can be tempting, especially for teachers facing burnout after strenuous and ineffectual effort, to blame learners for
-spoiling the classroom experience.
+Teaching and learning are not the same process. As we have seen, an
+instructor can make choices that facilitate the cognitive processes
+necessary for learning to occur. But **any technique can fall flat when
+learners are not motivated**. Worse, demotivation is contagious! Teaching
+or sharing a classroom with demotivated learners is not fun or rewarding.
+It can be tempting, especially for teachers facing burnout after
+strenuous and ineffectual effort, to blame learners for spoiling the
+classroom experience.
 
-It is true that learner motivation is influenced by many factors well beyond the control of an instructor, including individual background and systemic forces.
-However, there are many things you can do to cultivate motivation in your classroom, and perhaps most importantly, to **avoid doing harm** to the precious drive your
-learners bring to the classroom on day one. In Carpentries workshops, most learners come eager to learn! You have the power to influence how they feel when they depart.
+It is true that learner motivation is influenced by many factors well
+beyond the control of an instructor, including individual background and
+systemic forces. However, there are many things you can do to cultivate
+motivation in your classroom, and perhaps most importantly, to **avoid
+doing harm** to the precious drive your learners bring to the classroom
+on day one. In Carpentries-style workshops, most learners come eager to
+learn! You have the power to influence how they feel when they depart.
 
-No two-day workshop can truly bring a total novice to the level of a competent practitioner. Carpentries workshops function in a context of
-*self training*, in which workshops offer vital tools and a map for learners to proceed on their own. Our workshops lower the barrier to entry and help learners
-to get off on the right foot. In this context, **cultivating motivation to continue learning, and to carefully pursue best-practices in doing so, is arguably the
-most important outcome we can achieve**.
+No two-day workshop can truly bring a total novice to the level of a
+competent practitioner. Carpentries-style workshops function in a context
+of *self training*, in which workshops offer vital tools and a map for
+learners to proceed on their own. Our workshops lower the barrier to
+entry and help learners to get off on the right foot. In this context,
+**cultivating motivation to continue learning, and to carefully pursue
+best-practices in doing so, is arguably the most important outcome we can
+achieve**.
 
-This section discusses several ways that
-learners can be motivated (or demotivated!) by instructional content and approaches, and provides practice opportunities
-for you to become confident in motivating your learners.
+This section discusses several ways that learners can be motivated (or
+demotivated!) by instructional content and approaches, and provides
+practice opportunities for you to become confident in motivating your
+learners.
 
 ## How Can Content Influence Motivation?
 
-People learn best when they care about a topic and believe they can master it with a reasonable investment of time and effort.
-Many scientists might appreciate the value of programming
-but believe that developing useful skills will take more time than they have available.
-This presents a problem because **believing that something will be too hard
-to learn often becomes a self-fulfilling prophecy**.
+People learn best when they care about a topic and believe they can
+master it with a reasonable investment of time and effort. Many
+scientists might appreciate the value of programming but believe that
+developing useful skills will take more time than they have available.
+This presents a problem because **believing that something will be too
+hard to learn often becomes a self-fulfilling prophecy**.
 
-One way to combat this problem is to begin a lesson with something that is **quick to learn and immediately useful**.
-It is particularly important that *learners* see it as useful in their daily work.
-This not only motivates them,
-it also helps build their confidence in us,
-so that if it takes longer to get to something they find useful in a later topic,
+One way to combat this problem is to begin a lesson with something that
+is **quick to learn and immediately useful**. It is particularly
+important that *learners* see it as useful in their daily work. This not
+only motivates them, it also helps build their confidence in us, so that
+if it takes longer to get to something they find useful in a later topic,
 they will persist with the lesson.
 
-Imagine a graph whose axes are labelled "mean time to master" and "usefulness once mastered".
-Tasks that are quick to master and immediately useful should ideally be taught first;
-things in the opposite corner
-that are time-consuming to learn and have little near-term application
-should be avoided in our workshops.
+Imagine a graph whose axes are labelled "mean time to master" and
+"usefulness once mastered". Tasks that are quick to master and
+immediately useful should ideally be taught first; things in the opposite
+corner that are time-consuming to learn and have little near-term
+application should be avoided in our workshops.
 
 ```mermaid
 %%{init: {"quadrantChart": {"xAxisPosition": "bottom"}, "themeVariables": {} }}%%
