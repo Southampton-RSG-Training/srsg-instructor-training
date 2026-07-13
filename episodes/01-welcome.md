@@ -22,6 +22,8 @@ exercises: 15
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
+TODO: update this section
+
 :::::::::::::::::::::::::::::::::::::::instructor
 In an online training, ensure that captions are turned on, that one trainer claims host, and that the host adds other trainers as co-hosts. 
 The host key is in the email to trainers from the core team prior to the training. 

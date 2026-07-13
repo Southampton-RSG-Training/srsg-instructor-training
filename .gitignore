@@ -19,6 +19,8 @@ site/*
 /*.Rcheck/
 # RStudio files
 .Rproj.user/
+# VSCode files
+.vscode/
 # produced vignettes
 vignettes/*.html
 vignettes/*.pdf
