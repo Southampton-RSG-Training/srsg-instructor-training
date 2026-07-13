@@ -11,29 +11,29 @@
 carpentry: 'cp'
 
 # Overall title for pages.
-title: 'Instructor Training'
+title: 'SRSG Instructor Training'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
-created: '2014-11-16'
+created: '2026-07-13'
 
 # Comma-separated list of keywords for the lesson
-keywords: 'software, data, lesson, The Carpentries'
+keywords: 'software, data, lesson, instructor, training'
 
 # Life cycle stage of the lesson
 # possible values: pre-alpha, alpha, beta, stable
-life_cycle: 'stable'
+life_cycle: 'pre-alpha'
 
 # License of the lesson
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/carpentries/instructor-training/'
+source: 'https://github.com/Southampton-RSG-Training/srsg-instructor-training/'
 
 # Default branch of your lesson
 branch: 'main'
 
 # Who to contact if there are any issues
-contact: 'instructor.training@carpentries.org'
+contact: 'sc16@soton.ac.uk'
 
 # Navigation ------------------------------------------------
 #
@@ -62,28 +62,27 @@ episodes:
 - 01-welcome.md
 - 02-practice-learning.md
 - 03-coffee.md
-- 04-expertise.md
-- 05-memory.md
-- 06-feedback.md
-- 07-lunch.md
-- 08-motivation.md
-- 09-eia.md
-- 10-coffee.md
-- 11-practice-teaching.md
-- 12-homework.md
-- 13-second-welcome.md
-- 14-checkout.md
-- 15-carpentries.md
-- 16-coffee.md
-- 17-live.md
-- 18-preparation.md
-- 19-lunch.md
-- 20-performance.md
-- 21-management.md
-- 22-coffee.md
-- 23-introductions.md
-- 24-practices.md
-- 25-wrap-up.md
+- 04-learning-process.md
+- 05-motivation.md
+- 06-lunch.md
+
+#- 09-eia.md
+#- 10-coffee.md
+#- 11-practice-teaching.md
+#- 12-homework.md
+#- 13-second-welcome.md
+#- 14-checkout.md
+#- 15-carpentries.md
+#- 16-coffee.md
+#- 17-live.md
+#- 18-preparation.md
+#- 19-lunch.md
+#- 20-performance.md
+#- 21-management.md
+#- 22-coffee.md
+#- 23-introductions.md
+#- 24-practices.md
+#- 25-wrap-up.md
 
 # Information for Learners
 learners: 
@@ -111,5 +110,5 @@ profiles:
 # sandpaper and varnish versions) should live
 
 analytics: carpentries
-url: 'https://carpentries.github.io/instructor-training'
+url: 'https://southampton-rsg-training.github.io/srsg-instructor-training'
 lang: en
