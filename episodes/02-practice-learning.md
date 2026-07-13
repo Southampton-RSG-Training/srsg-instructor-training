@@ -1,8 +1,8 @@
 ---
 title: Building Skill With Practice
 block: How Learning Works
-teaching: 30
-exercises: 30
+teaching: 20
+exercises: 10
 ---
 
 ::::::::::::::::::::::::::::::::::::::: objectives
@@ -232,9 +232,9 @@ them and build better ones in their place.
 ::: challenge
 ## Anticipating Misconceptions
 
-Describe a misconception you have encountered as a teacher or as a learner.
+5 mins.
 
-This exercise should take about 5 minutes.
+Describe a misconception you have encountered as a teacher or as a learner.
 :::
 
 ## Using Formative Assessment to Identify Misconceptions
