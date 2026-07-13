@@ -34,6 +34,8 @@ training.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+TODO: too long. shorten this episode by about 10 mins of content
+
 ## Motivation Matters
 
 Teaching and learning are not the same process. As we have seen, an
@@ -44,14 +46,6 @@ or sharing a classroom with demotivated learners is not fun or rewarding.
 It can be tempting, especially for teachers facing burnout after
 strenuous and ineffectual effort, to blame learners for spoiling the
 classroom experience.
-
-It is true that learner motivation is influenced by many factors well
-beyond the control of an instructor, including individual background and
-systemic forces. However, there are many things you can do to cultivate
-motivation in your classroom, and perhaps most importantly, to **avoid
-doing harm** to the precious drive your learners bring to the classroom
-on day one. In Carpentries-style workshops, most learners come eager to
-learn! You have the power to influence how they feel when they depart.
 
 No two-day workshop can truly bring a total novice to the level of a
 competent practitioner. Carpentries-style workshops function in a context
@@ -98,47 +92,38 @@ quadrantChart
     y-axis used rarely --> used frequently
     quadrant-2 Teach this first
     quadrant-4 Do not bother
-
 ```
 
-Another way to think about the graph shown above is **authentic tasks** -- real tasks performed
-by someone doing their work. If you can identify authentic tasks from your
-own work that could be useful to others, these examples will be highly
-motivating.
+Another way to think about the graph shown above is **authentic tasks**
+-- real tasks performed by someone doing their work. If you can identify
+authentic tasks from your own work that could be useful to others, these
+examples will be highly motivating.
 
-This 2x2 grid can be useful for longer term lesson planning and development as well as for considering how to answer questions. To make the ideas more concrete, here is an example in the context of driving: 
-
-```mermaid
-%%{init: {"quadrantChart": {"xAxisPosition": "bottom"}, "themeVariables": {} }}%%
-quadrantChart
-    title When to teach
-    x-axis quick to master --> slow to master
-    y-axis used rarely --> used frequently
-    quadrant-2 Teach this first
-    quadrant-4 Do not bother
-    quadrant-1 Teach later
-    quadrant-3 Offer if needed
-    A - empty carpark : [0.2, 0.8] 
-    B - at speed on a race track : [0.85, 0.25]
-    C - suburban roads: [0.8, 0.8]
-    D - with snow chains.: [0.2, 0.15]
-%%accDescr {A quandrant chart, 2x2 grid, with y-axis labeled quick to master --> slow to master and and x-axis labeled  used rarely --> used frequently. The upper left quadrant says "teach this first" and the lower right quadrant says "do not bother"}
-```
-
-An empty carpark (A) is a great place to start for any new driver, but most people will never drive at speed in a race track(B).  In contrast, suburbans road (C) are a realistic motivating example that any driver will encounter. That will be on the agenda for a driving school. Driving with snow chains (D)  is important if you live in a place that gets extreme snow events, but not for most people.  That is something that someone can learn later if they need it, or an individual who lives or frequently visits a place where they are common may even know to ask about, but most people will not need. We would not want a lesson to go from an empty carpark to snow chains because we would probably lose a lot of people.   
+This 2x2 grid can be useful for longer term lesson planning and
+development as well as for considering how to answer questions. It's also
+useful when considering where to go next. It wouldn't be a good idea to
+go directly from something that's easy to master and used frequently to
+something that's the absolute opposite: there are graduations in-between,
+with these logically grouped into separate courses. Plus, many of those
+learning the basics may not ever need to know or care much about the more
+advanced, harder to learn topics even if learning them was achievable
+within a single lesson.
 
 :::::::::::::::::::::::::::::::::::::::  challenge
 
 ## Authentic Tasks: Think, Pair, Share
 
-**Think** about some task you did this week that uses one or more of the skills we teach,
-(e.g. wrote a function, bulk downloaded data, built a plot in R, forked a repo)
-and explain how you would use it (or a simplified version of it) as an exercise or example in class.
-**Pair** up with your neighbor and decide where this exercise fits on a graph of "short/long time to master" and "low/high usefulness".
-In the class Etherpad, **share** the task and where it fits on the graph,  using the lettered points in the diagram below.
-As a group, we will discuss how these relate back to our "teach most immediately useful first" approach.
+10 mins.
 
-This exercise should take about 10 minutes.
+**Think** about some task you did this week that uses one or more of the
+skills we teach, (e.g. wrote a function, bulk downloaded data, built a
+plot in R, forked a repo) and explain how you would use it (or a
+simplified version of it) as an exercise or example in class. **Pair** up
+with your neighbor and decide where this exercise fits on a graph of
+"short/long time to master" and "low/high usefulness". In the class
+Etherpad, **share** the task and where it fits on the graph,  using the
+lettered points in the diagram below. As a group, we will discuss how
+these relate back to our "teach most immediately useful first" approach.
 
 ```mermaid
 %%{init: {"quadrantChart": {"xAxisPosition": "bottom"}, "themeVariables": {} }}%%
@@ -154,7 +139,7 @@ quadrantChart
     topic B : [0.85, 0.25]
     topic C: [0.8, 0.8]
     topic D: [0.2, 0.15]
-accDescr {A quandrant chart, 2x2 grid, with y-axis labeled quick to master --> slow to master and and x-axis labeled  used rarely --> used frequently. The upper left quadrant says "teach this first" and the lower right quadrant says "do not bother"}
+accDescr {A quadrant chart, 2x2 grid, with y-axis labeled quick to master --> slow to master and and x-axis labeled  used rarely --> used frequently. The upper left quadrant says "teach this first" and the lower right quadrant says "do not bother"}
 ```
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -163,104 +148,151 @@ accDescr {A quandrant chart, 2x2 grid, with y-axis labeled quick to master --> s
 
 ## Actual Time
 
-Any useful estimate of time must take into account
-**how frequent failures are**
-and how much time is lost to them.
-For example,
-editing a text file seems like a quick task,
-but most graphical editors save things to the user's desktop or home directory.
-If a novice needs to run shell commands on the files they've edited,
-they often fail to navigate to the right directory without help.
-You will learn to anticipate these sorts of challenges as you chart your [expert awareness gaps](04-expertise.md#expertise-and-teaching). As a result, your skill at estimating time to mastery will improve.
-If you are new to teaching, try to ask an experienced instructor for feedback before trying out a new exercise.
+∑Any useful estimate of time must take into account **how frequent
+failures are** and how much time is lost to them. For example, editing a
+text file seems like a quick task, but most graphical editors save things
+to the user's desktop or home directory. If a novice needs to run shell
+commands on the files they've edited, they often fail to navigate to the
+right directory without help.
 
+You will learn to anticipate these sorts of challenges as you chart your
+[expert awareness gaps](04-learning-process.md#mind-the-gap). As a
+result, your skill at estimating time to mastery will improve. If you are
+new to teaching, try to ask an experienced instructor for feedback before
+trying out a new exercise.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-While we aim to begin workshops with motivating content, in practice this does not always occur. Workflow-based content like that taught in Data Carpentry
-workshops may start at the beginning of the workflow, for example. Even when a 'motivating example' is built in to the start of a workshop, technical
-problems like software installation can turn those precious first minutes into an experience of frustration and impatience. That is ok! What is important is to
-**be mindful of times when your content is not motivating**, and to strategise ways to re-engage learners (and yourself) using some of the other techniques in this section.
+While we aim to begin workshops with motivating content, in practice this
+does not always occur. Workflow-based content like that taught in Data
+Carpentry workshops may start at the beginning of the workflow, for
+example. Even when a 'motivating example' is built in to the start of a
+workshop, technical problems like software installation can turn those
+precious first minutes into an experience of frustration and impatience.
+That is ok! What is important is to **be mindful of times when your
+content is not motivating**, and to strategise ways to re-engage learners
+(and yourself) using some of the other techniques in this section.
 
 ## How Can You Affect Motivation?
 
-In addition to teaching things that will make our learners' lives easier and focusing
-on authentic tasks, there are a number of other strategies we can use to motivate
-learners when we teach.
+In addition to teaching things that will make our learners' lives easier
+and focusing on authentic tasks, there are a number of other strategies
+we can use to motivate learners when we teach.
 
 :::::::::::::::::::::::::::::::::::::::  challenge
 
 ## Brainstorming Motivational Impacts
 
-Think back to courses you have taken in the past and consider things that an instructor has said or done that you found either **motivating** or **demotivating**.
-Try to think of one example in each case, and share your example under the appropriate heading in the Etherpad.
+5 mins.
 
-This exercise should take about 5 minutes.
-
+Think back to courses you have taken in the past and consider things that
+an instructor has said or done that you found either **motivating** or
+**demotivating**. Try to think of one example in each case, and share
+your example under the appropriate heading in the shared document.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: instructor
 
-After trainees write in the etherpad, one way to discuss/review comments is to note which items in either list suggest practices that trainees can employ in their teaching and in particular to review how topics discussed already  in the training (going slowly, expert awareness gaps, formative assessment, memory management, etc) can help mitigate the demotivating or are present in the motivating examples. 
+After trainees write in the shared document, one way to discuss/review
+comments is to note which items in either list suggest practices that
+trainees can employ in their teaching and in particular to review how
+topics discussed already in the training (going slowly, expert awareness
+gaps, formative assessment, memory management, etc) can help mitigate the
+demotivating or are present in the motivating examples. 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ### Invite Participation
 
-Motivation is supported by active engagement. Participation allows learners to ask questions, resolving roadblocks quickly, and demonstrate knowledge, building
-confidence. It also facilitates learning! However, in a room full of strangers, **most learners will not immediately feel comfortable speaking up**, especially when they feel
-confusion or doubt. Creating a motivating classroom means inviting communication and reinforcing that invitation with an attentive response.
+Motivation is supported by active engagement. Participation allows
+learners to ask questions, resolving roadblocks quickly, and demonstrate
+knowledge, building confidence. It also facilitates learning! However, in
+a room full of strangers, **most learners will not immediately feel
+comfortable speaking up**, especially when they feel confusion or doubt.
+Creating a motivating classroom means inviting communication and
+reinforcing that invitation with an attentive response.
 
 A few ways to invite participation are:
 
-- **Establishing norms for interaction**. This can be done by creating procedures for communication, e.g. turn taking in discussions, passing around a *talking
-  stick*, or encouraging quieter people to contribute. Having, discussing, and enforcing a [Code of Conduct](https://docs.carpentries.org/policies/coc/)
-  also provides a framework for positive communication to occur.
-- **Encouraging learners to learn from each other**. Working in pairs, or *[pair programming](https://en.wikipedia.org/wiki/Pair_programming)*, encourages
-  learners to talk through their learning process, reinforcing memory and making it more likely that confusion will be expressed and
-  resolved. This can also address challenges of varying background experience: asking more advanced learners to help beginners can
-  maximise learning for both. In these cases, make sure the beginner is doing the typing!
-- **Acknowledging when learners are confused**. Acknowledging and exploring confusion with kindness rewards learners for sharing vulnerable information. It also
-  helps you examine your expert awareness gaps! Formative assessments can pinpoint misunderstandings. When learners see  that others are confused, they are more likely to share their own uncertainties.
+- **Establishing norms for interaction**. Such as providing multiple
+  channels of communication which lower barriers to communication, like
+  encouraging input via virtual meeting chat or a shared GoogleDoc as
+  well as verbally. Having, discussing, and enforcing a [Code of
+  Conduct](https://docs.carpentries.org/policies/coc/) also provides a
+  framework for positive communication to occur.
+- **Encouraging learners to learn from each other**. Working in pairs, or
+  *[pair programming](https://en.wikipedia.org/wiki/Pair_programming)*,
+  encourages learners to talk through their learning process, reinforcing
+  memory and making it more likely that confusion will be expressed and
+  resolved. This can also address challenges of varying background
+  experience: asking more advanced learners to help beginners can
+  maximise learning for both. In these cases, make sure the beginner is
+  doing the typing!
+- **Acknowledging when learners are confused**. Acknowledging and
+  exploring confusion with kindness rewards learners for sharing
+  vulnerable information. It also helps you examine your expert awareness
+  gaps! When learners see that others are confused, they are more likely
+  to share their own uncertainties.
 
 ### Encourage a Growth Mindset
 
-People vary in their beliefs about the nature of intelligence and skill development. In academic environments, people
-are often praised as "talented" or having "high ability", and may develop an identity around being a certain "type of
-person" who has inherent strengths or weaknesses.
+People vary in their beliefs about the nature of intelligence and skill
+development. In academic environments, people are often praised as
+"talented" or having "high ability", and may develop an identity around
+being a certain "type of person" who has inherent strengths or
+weaknesses.
 
-The belief that ability or intelligence is born rather than made -- dubbed a **fixed mindset** by Carol Dweck -- may impact the learning process. Broadly, this is a
-continuing topic of research and debate in education communities. In the specific context of Carpentries workshops, we frequently encounter learners who believe that they are not
-"computational people," and Instructors often report that this fixed mindset interferes with motivation to engage fully with the task of learning to program. We
-therefore recommend four types of interventions that have been shown to influence mindset, encouraging learners to believe that ability can be acquired through
-effort -- a **growth mindset**.
+The belief that ability or intelligence is born rather than made --
+dubbed a **fixed mindset** by Carol Dweck -- may impact the learning
+process. Broadly, this is a continuing topic of research and debate in
+education communities. In the specific context of Carpentries-style
+workshops, we frequently encounter learners who believe that they are not
+"computational people," and Instructors often report that this fixed
+mindset interferes with motivation to engage fully with the task of
+learning to program. We therefore recommend four types of interventions
+that have been shown to influence mindset, encouraging learners to
+believe that ability can be acquired through effort -- a **growth
+mindset**.
 
-- **Positive error framing**. Errors are inevitable when learning a new skill. However, learners will often interpret errors as indicators of
-  inability -- adopting a fixed mindset. Encouraging learners to understand errors in a positive way -- as an opportunity to learn something they would have missed
-  otherwise -- reinforces a growth mindset and helps them to stay motivated. Be sure to discuss this with your helpers, since they are
-  often the 'first responders' to learner mistakes.
+- **Positive error framing**. Errors are inevitable when learning a new
+  skill. However, learners will often interpret errors as indicators of
+  inability -- adopting a fixed mindset. Encouraging learners to
+  understand errors in a positive way -- as an opportunity to learn
+  something they would have missed otherwise -- reinforces a growth
+  mindset and helps them to stay motivated. Be sure to discuss this with
+  your helpers, since they are often the 'first responders' to learner
+  mistakes.
 
 :::::::::::::::::::::::::::::::::::::::  challenge
 
 ## Helping Learners Learn From Mistakes
 
-A learner at your workshop asks for your help with an exercise and shows you their attempt at solving it. You see they've made an error
-that shows they misunderstand something fundamental about the lesson (for example, in the shell lesson, they forgot to put a space between
-`ls` and the name of the directory they are looking at). What would you say to the learner?
+5 mins.
 
-In the Etherpad, describe the error your learner has made and how you would respond.
+A learner at your workshop asks for your help with an exercise and shows
+you their attempt at solving it. You see they've made an error that shows
+they misunderstand something fundamental about the lesson (for example,
+in the shell lesson, they forgot to put a space between `ls` and the name
+of the directory they are looking at). What would you say to the learner?
 
-This exercise should take about 5 minutes.
-
+In the shared document, describe the error your learner has made and how
+you would respond.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-- **Presenting the instructor as a learner**. We want our learners to have confidence in our qualifications, but it is easy to take this too far. Presenting yourself as a learner offers a relatable model, fostering a growth mindset and teaching a positive approach to the continuing challenge of learning. Using
-  [participatory live coding](17-live), our chosen method for teaching concepts, is very useful for this reason. It is common to make errors while
-  coding. Embrace these with enthusiasm! Leveraging your own mistakes as opportunities can turn an awkward moment into a highlight of a lesson, demonstrating both
-  problem-solving approaches and positive error framing. If you are unlucky and fail to make any useful mistakes, sharing stories about your learning process can
-  help here, too.
+- **Presenting the instructor as a learner**. We want our learners to
+  have confidence in our qualifications, but it is easy to take this too
+  far. Presenting yourself as a learner offers a relatable model,
+  fostering a growth mindset and teaching a positive approach to the
+  continuing challenge of learning. Using [participatory liv coding](17-live),
+  our chosen method for teaching concepts, is very useful for this
+  reason. It is common to make errors while coding. Embrace these with
+  enthusiasm! Leveraging your own mistakes as opportunities can turn an
+  awkward moment into a highlight of a lesson, demonstrating both
+  problem-solving approaches and positive error framing. If you are
+  unlucky and fail to make any useful mistakes, sharing stories about
+  your learning process can help here, too.
 
 :::::::::::::::::::::::::::::::::::::  testimonial
 
@@ -269,29 +301,42 @@ This exercise should take about 5 minutes.
 The typos are the pedagogy.
 — Emily Jane McTavish
 
-
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-- **Praising effort or improvement, not performance or ability**. Praise based on the quality of performance often feels like the highest praise because it goes
-  straight to your identity as a person of intellect and skill. When faced with a fixed mindset ("I'm not a computational person!"), many well-intentioned teachers
-  counter with another fixed mindset ("You ARE a computational person! You're really good at this!"). However, this doesn't prepare learners to interpret future obstacles as
-  irrelevant to innate ability. Evidence suggests that learner perseverance is best supported in the long term by praising effort or improvement instead. If you
-  are not convinced of this, consider the impact on the person sitting next to your target, who might overhear but not receive the same praise.
+- **Praising effort or improvement, not performance or ability**. Praise
+  based on the quality of performance often feels like the highest praise
+  because it goes straight to your identity as a person of intellect and
+  skill. When faced with a fixed mindset ("I'm not a computational
+  person!"), many well-intentioned teachers counter with another fixed
+  mindset ("You ARE a computational person! You're really good at
+  this!"). However, this doesn't prepare learners to interpret future
+  obstacles as irrelevant to innate ability. Evidence suggests that
+  learner perseverance is best supported in the long term by praising
+  effort or improvement instead. If you are not convinced of this,
+  consider the impact on the person sitting next to your target, who
+  might overhear but not receive the same praise.
 
 :::::::::::::::::::::::::::::::::::::::  challenge
 
 ## Choosing our Praises
 
-Since we are so used to being praised for our performance, it can be challenging to change the way we praise our learners. Which of these examples
-of praise do you think are based on performance, effort, or improvement?
+5 mins.
 
-1. That's exactly how you do it -- you haven't gotten it right yet, but you've tried two different strategies to solve that problem. Keep it up!
-2. You're getting to be really good at that. See how it pays to keep at it?
-3. Wow, you did that perfectly without any help. Have you thought about taking more computing classes?
-4. That was a hard problem. You didn't get the right answer, but look at what you learned trying to solve it!
+Since we are so used to being praised for our performance, it can be
+challenging to change the way we praise our learners. Which of these
+examples of praise do you think are based on performance, effort, or
+improvement?
+
+1. That's exactly how you do it -- you haven't gotten it right yet, but
+   you've tried two different strategies to solve that problem. Keep it
+   up!
+2. You're getting to be really good at that. See how it pays to keep at
+   it?
+3. Wow, you did that perfectly without any help. Have you thought about
+   taking more computing classes?
+4. That was a hard problem. You didn't get the right answer, but look at
+   what you learned trying to solve it!
 5. Look at that - you're a natural!
-
-This exercise should take about 5 minutes.
 
 :::::::::::::::  solution
 
@@ -301,83 +346,142 @@ This exercise should take about 5 minutes.
 2. Improvement-based.
 3. Performance-based.
 4. Improvement-based.
-5. Performance-based.
-  
-  
+5. Performance-based.  
 
 :::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-- **Leveraging the power of "yet"**. A request for help might start with "I can't \_\_\_ " or "I don't understand \_\_\_ ". Depending on the attitude of the learner,
-  these can sound like statements of fact rather than requests for help! Adding the word "yet" to the end of these sentences helps emphasise that being a novice is
-  a temporary state, and encourages a growth mindset towards progress.
-
 ### First, Do No Harm!
 
-When learning a skill, we develop more than expert awareness gaps -- we also develop opinions about tools and methods, and sometimes base a professional identity
-around displaying technical expertise. Technical boasts, insults, and other showy moves can score points in conversation with fellow experts, but these present
-serious hazards in the classroom! Here are a few **things you should not do in your workshop:**
+When learning a skill, we develop more than expert awareness gaps -- we
+also develop opinions about tools and methods, and sometimes base a
+professional identity around displaying technical expertise. Technical
+boasts, insults, and other showy moves can score points in conversation
+with fellow experts, but these present serious hazards in the classroom!
+Here are a few **things you should not do in your workshop:**
 
-- **Talk contemptuously or with scorn about any tool or practice**, or the people who use them. Regardless of
-  its shortcomings, many of your learners may be using that tool, and may have invested many years in learning to do so.
-  Convincing someone to change their practices is much harder when
-  they think you disdain them.
+- **Talk contemptuously or with scorn about any tool or practice**, or
+  the people who use them. Regardless of its shortcomings, many of your
+  learners may be using that tool, and may have invested many years in
+  learning to do so. Convincing someone to change their practices is much
+  harder when they think you disdain them.
 - **Dive into complex or detailed technical discussion** with the one or
-  two people in the audience who clearly don't actually need to be
-  there. Reserve those conversations for breaks or follow-up emails.
-- **Pretend to know more than you do**.  People will actually trust you
-  more if you are frank about the limitations of your knowledge, and
-  will be more likely to ask questions and seek help. (Also see "Presenting the instructor as a learner," above)
-- **Use the word "just" or other demotivating words** we talked about in a
-  [previous episode](04-expertise.html). These signal to the learner that
-  the instructor thinks their problem is trivial
-  and by extension that they therefore must be deficient
-  if they are not able to figure it out.
-- **Take over the learner's keyboard**. It is rarely a good idea to type anything for your learners.
-  Doing so can be demotivating for the learner (as it implies you don't think they can do it themselves or
-  that you don't want to wait for them). It also wastes a valuable opportunity for your learner to develop muscle memory and other
-  skills that are essential for independent work.
-- **Express surprise at unawareness**. Saying things like "I can't believe you don't know X"
-  or "You've never heard of Y?" signals to the learner that they do not have
-  some required pre-knowledge of the material you are teaching, that they don't belong at the workshop,
-  and it may prevent them from asking questions in
-  the future. For more on this see the Recurse Center's [Social Rules][recurse-social-rules].
+  two people in the audience who clearly don't actually need to be there.
+  Reserve those conversations for breaks or follow-up emails.
+- **Pretend to know more than you do**. People will actually trust you
+  more if you are frank about the limitations of your knowledge, and will
+  be more likely to ask questions and seek help. (Also see "Presenting
+  the instructor as a learner," above)
+- **Use the word "just" or other demotivating words** we talked about in
+  a [previous episode](04-learning-process.html). These signal to the
+  learner that the instructor thinks their problem is trivial and by
+  extension that they therefore must be deficient if they are not able to
+  figure it out.
+- **Take over the learner's keyboard**. It is rarely a good idea to type
+  anything for your learners. Doing so can be demotivating for the
+  learner (as it implies you don't think they can do it themselves or
+  that you don't want to wait for them). It also wastes a valuable
+  opportunity for your learner to develop muscle memory and other skills
+  that are essential for independent work.
+- **Express surprise at unawareness**. Saying things like "I can't
+  believe you don't know X" or "You've never heard of Y?" signals to the
+  learner that they do not have some required pre-knowledge of the
+  material you are teaching, that they don't belong at the workshop, and
+  it may prevent them from asking questions in the future. For more on
+  this see the Recurse Center's [Social Rules][recurse-social-rules].
 
-It can be difficult to avoid these demotivators entirely. Some people are so used to
-complaining about certain tools
-that they initially fail to realise they're doing it while teaching. If you catch yourself doing this, you might find a way to walk it back, or consider how you might repair or improve your motivational efforts on your next interaction. Teaching yourself -- and your helpers! --
-to avoid these types of comments takes practice, but is well worth the effort.
+It can be difficult to avoid these demotivators entirely. Some people are
+so used to complaining about certain tools that they initially fail to
+realise they're doing it while teaching. If you catch yourself doing
+this, you might find a way to walk it back, or consider how you might
+repair or improve your motivational efforts on your next interaction.
+Teaching yourself -- and your helpers! -- to avoid these types of
+comments takes practice, but is well worth the effort.
 
 ## Not Just Learners
 
-What we have not discussed yet is strategies to motivate the *instructor*. But why does *your* motivation matter?
+What we have not discussed yet is strategies to motivate the
+*instructor*. But why does *your* motivation matter?
 
-- **Learners respond to an instructor's enthusiasm**. The more motivated you are, the more motivated they will be!
-- **Instructors are learning to teach.** This takes motivation, too! Deliberative practice, seeking feedback, and reflecting on mistakes in the
-  context of your own busy work life is a challenge. What will keep you energized to stay engaged with your learning process?
-- **Carpentries Instructors teach because they want to.** Whether you are truly volunteering your time or are fulfilling a role in a job you have
-  chosen, teaching is something you came here motivated to do. Teaching can be an incredibly gratifying activity! Finding and preserving your own motivation
-  through the many challenges ahead will make your journey as a teacher a more joyful one.
-
-:::::::::::::::::::::::::::::::::::::::  challenge
-
-## Why Do You Teach?
-
-We all have a different motivation for teaching, and that is a really good thing!
-The Carpentries wants instructors with diverse backgrounds because you each bring something
-unique to our community.
-
-What motivates you to teach? Write a short explanation of what motivates you to teach.
-Save this as part of your teaching philosophy for future reference.
-
-This exercise should take about 5 minutes.
-
-
-::::::::::::::::::::::::::::::::::::::::::::::::::
+- **Learners respond to an instructor's enthusiasm**. The more motivated
+  you are, the more motivated they will be!
+- **Instructors are learning to teach.** This takes motivation, too!
+  Deliberative practice, seeking feedback, and reflecting on mistakes in
+  the context of your own busy work life is a challenge. What will keep
+  you energized to stay engaged with your learning process?
+- **Carpentries Instructors teach because they want to.** Whether you are
+  truly volunteering your time or are fulfilling a role in a job you have
+  chosen, teaching is something you came here motivated to do. Teaching
+  can be an incredibly gratifying activity! Finding and preserving your
+  own motivation through the many challenges ahead will make your journey
+  as a teacher a more joyful one.
 
 [recurse-social-rules]: https://www.recurse.com/manual#sec-environment
 
+
+## Creating an Inclusive Learning Environment
+
+A positive learning environment does not happen by chance. Learners bring
+different experiences, backgrounds and needs, so creating an effective
+workshop requires more than treating everyone the same. Inclusive
+teaching aims to remove barriers wherever possible so that all
+participants have an equal opportunity to learn and contribute.
+
+### Equity, Inclusion and Accessibility
+
+- *Equity* means recognising that different learners may need different
+  forms of support to achieve comparable outcomes.
+- *Inclusion* means ensuring everyone feels welcomed, respected and
+  able to participate.
+- *Accessibility* means approaching and designing learning so that as
+  many people as possible can access and engage with it.
+
+:::::::::::::::::::::::::::::::::::::::  challenge
+
+## What Happens when Accessibility is an Issue?
+
+5 mins.
+
+Think of a time when you have been affected by, or noticed someone else
+being affected by barriers to accessibility. This may have been at a
+conference you attended where the elevator was out of service, or maybe a
+class you were taking relied on audio delivery of content. Describe what
+happened, how it impacted your (or someone else’s) ability to be involved
+and what could have been done to provide better accessibility in this
+case.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+### Recognising Bias
+
+Everyone relies on unconscious assumptions and stereotypes, but these can
+influence how we teach, who we engage with, and how learners experience
+the workshop. Be aware of your own behaviour, encourage participation
+from everyone, and avoid reinforcing stereotypes.
+
+### Practical Inclusive Teaching
+
+We create an inclusive environment in our workshops by:
+
+- Setting expectations through a Code of Conduct,
+- Encouraging respectful participation,
+- Actively inviting quieter learners into discussions,
+- Providing anonymous opportunities for feedback,
+- Encouraging reflection on your own teaching practice, and
+- Continually improving accessibility over time.
+
+Small, incremental improvements make a meaningful difference and help
+create workshops where every learner has the opportunity to succeed.
+
+### Key Takeaways
+
+- Remove barriers to participation wherever practical rather than relying
+  on individual requests.
+- Foster a respectful, welcoming environment where everyone can
+  participate.
+- Regularly reflect on your teaching and use learner feedback to improve
+  inclusivity.
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
