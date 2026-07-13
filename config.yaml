@@ -33,7 +33,7 @@ source: 'https://github.com/Southampton-RSG-Training/srsg-instructor-training/'
 branch: 'main'
 
 # Who to contact if there are any issues
-contact: 'sc16@soton.ac.uk'
+contact: 'email@example.com'
 
 # Navigation ------------------------------------------------
 #
@@ -61,45 +61,33 @@ contact: 'sc16@soton.ac.uk'
 episodes: 
 - 01-welcome.md
 - 02-practice-learning.md
-- 03-coffee.md
+- 03-break.md
 - 04-learning-process.md
 - 05-motivation.md
 - 06-lunch.md
-
-#- 09-eia.md
-#- 10-coffee.md
-#- 11-practice-teaching.md
-#- 12-homework.md
-#- 13-second-welcome.md
-#- 14-checkout.md
-#- 15-carpentries.md
-#- 16-coffee.md
-#- 17-live.md
-#- 18-preparation.md
-#- 19-lunch.md
-#- 20-performance.md
-#- 21-management.md
-#- 22-coffee.md
-#- 23-introductions.md
-#- 24-practices.md
-#- 25-wrap-up.md
+- 07-live-coding.md
+- 08-break.md
+- 09-preparation.md
+- 10-performance.md
+- 11-management.md
+- 12-wrap-up.md
 
 # Information for Learners
 learners: 
-- training_info.md
-- training_calendar.md
-- checkout.md
-- demo_lessons.md
-- demos_rubric.md
-- members.md
-- fromthelearners.md
-- reference.md
+#- training_info.md
+#- training_calendar.md
+#- checkout.md
+#- demo_lessons.md
+#- demos_rubric.md
+#- members.md
+#- fromthelearners.md
+#- reference.md
 
 # Information for Instructors
 instructors: 
-- icebreakers.md
-- additional_exercises.md
-- instructor-notes.md
+#- icebreakers.md
+#- additional_exercises.md
+#- instructor-notes.md
 
 # Learner Profiles
 profiles: 

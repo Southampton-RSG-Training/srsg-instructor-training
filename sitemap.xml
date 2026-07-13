@@ -7,6 +7,9 @@
     <loc>https://southampton-rsg-training.github.io/srsg-instructor-training/02-practice-learning.html</loc>
   </url>
   <url>
+    <loc>https://southampton-rsg-training.github.io/srsg-instructor-training/03-break.html</loc>
+  </url>
+  <url>
     <loc>https://southampton-rsg-training.github.io/srsg-instructor-training/03-coffee.html</loc>
   </url>
   <url>
@@ -28,7 +31,13 @@
     <loc>https://southampton-rsg-training.github.io/srsg-instructor-training/06-lunch.html</loc>
   </url>
   <url>
+    <loc>https://southampton-rsg-training.github.io/srsg-instructor-training/07-live-coding.html</loc>
+  </url>
+  <url>
     <loc>https://southampton-rsg-training.github.io/srsg-instructor-training/07-lunch.html</loc>
+  </url>
+  <url>
+    <loc>https://southampton-rsg-training.github.io/srsg-instructor-training/08-break.html</loc>
   </url>
   <url>
     <loc>https://southampton-rsg-training.github.io/srsg-instructor-training/08-motivation.html</loc>
@@ -37,13 +46,25 @@
     <loc>https://southampton-rsg-training.github.io/srsg-instructor-training/09-eia.html</loc>
   </url>
   <url>
+    <loc>https://southampton-rsg-training.github.io/srsg-instructor-training/09-preparation.html</loc>
+  </url>
+  <url>
     <loc>https://southampton-rsg-training.github.io/srsg-instructor-training/10-coffee.html</loc>
+  </url>
+  <url>
+    <loc>https://southampton-rsg-training.github.io/srsg-instructor-training/10-performance.html</loc>
+  </url>
+  <url>
+    <loc>https://southampton-rsg-training.github.io/srsg-instructor-training/11-management.html</loc>
   </url>
   <url>
     <loc>https://southampton-rsg-training.github.io/srsg-instructor-training/11-practice-teaching.html</loc>
   </url>
   <url>
     <loc>https://southampton-rsg-training.github.io/srsg-instructor-training/12-homework.html</loc>
+  </url>
+  <url>
+    <loc>https://southampton-rsg-training.github.io/srsg-instructor-training/12-wrap-up.html</loc>
   </url>
   <url>
     <loc>https://southampton-rsg-training.github.io/srsg-instructor-training/13-second-welcome.html</loc>
@@ -127,6 +148,9 @@
     <loc>https://southampton-rsg-training.github.io/srsg-instructor-training/instructor/02-practice-learning.html</loc>
   </url>
   <url>
+    <loc>https://southampton-rsg-training.github.io/srsg-instructor-training/instructor/03-break.html</loc>
+  </url>
+  <url>
     <loc>https://southampton-rsg-training.github.io/srsg-instructor-training/instructor/03-coffee.html</loc>
   </url>
   <url>
@@ -148,7 +172,13 @@
     <loc>https://southampton-rsg-training.github.io/srsg-instructor-training/instructor/06-lunch.html</loc>
   </url>
   <url>
+    <loc>https://southampton-rsg-training.github.io/srsg-instructor-training/instructor/07-live-coding.html</loc>
+  </url>
+  <url>
     <loc>https://southampton-rsg-training.github.io/srsg-instructor-training/instructor/07-lunch.html</loc>
+  </url>
+  <url>
+    <loc>https://southampton-rsg-training.github.io/srsg-instructor-training/instructor/08-break.html</loc>
   </url>
   <url>
     <loc>https://southampton-rsg-training.github.io/srsg-instructor-training/instructor/08-motivation.html</loc>
@@ -157,13 +187,25 @@
     <loc>https://southampton-rsg-training.github.io/srsg-instructor-training/instructor/09-eia.html</loc>
   </url>
   <url>
+    <loc>https://southampton-rsg-training.github.io/srsg-instructor-training/instructor/09-preparation.html</loc>
+  </url>
+  <url>
     <loc>https://southampton-rsg-training.github.io/srsg-instructor-training/instructor/10-coffee.html</loc>
+  </url>
+  <url>
+    <loc>https://southampton-rsg-training.github.io/srsg-instructor-training/instructor/10-performance.html</loc>
+  </url>
+  <url>
+    <loc>https://southampton-rsg-training.github.io/srsg-instructor-training/instructor/11-management.html</loc>
   </url>
   <url>
     <loc>https://southampton-rsg-training.github.io/srsg-instructor-training/instructor/11-practice-teaching.html</loc>
   </url>
   <url>
     <loc>https://southampton-rsg-training.github.io/srsg-instructor-training/instructor/12-homework.html</loc>
+  </url>
+  <url>
+    <loc>https://southampton-rsg-training.github.io/srsg-instructor-training/instructor/12-wrap-up.html</loc>
   </url>
   <url>
     <loc>https://southampton-rsg-training.github.io/srsg-instructor-training/instructor/13-second-welcome.html</loc>
