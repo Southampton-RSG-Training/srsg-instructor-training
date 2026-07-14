@@ -5,61 +5,64 @@ training_site: https://carpentries.github.io/instructor-training
 
 ## Preparing for Your Training
 
-1. Please fill out our pre-workshop survey. Please refer to your pre-workshop email
-  for a custom link for your event. Your responses will help your Trainers understand
-  your background and customise the training appropriately. They also assist The Carpentries
-  in understanding and reporting on our impact.
-2. Please go to the [Software Carpentry lessons page](https://software-carpentry.org/lessons/),
-  the [Data Carpentry lessons page](https://datacarpentry.org/lessons/), or the
-  [Library Carpentry lessons page](https://librarycarpentry.org/lessons/) choose one episode
-  (for recommendations, see the list below) and read through it carefully.
-  You will be asked to teach a 90 second introduction to this content during
-  the first half of the workshop, and will teach a 3 minute participatory segment
-  of its content twice during the second half of the workshop (i.e. using live coding or live demonstration). Note that these
-  presentations are expected to be rough, not polished -- you should be familiar
-  with the content but please do not over-prepare. This preparation should take no more than 20-30 minutes.
-3. Please read the following before the workshop begins:
+1. Please fill out our pre-workshop survey. Please refer to your
+  pre-workshop email for a custom link for your event. Your responses
+  will help your Trainers understand your background and customise the
+  training appropriately. They also assist The SRSG in understanding and
+  reporting on our impact.
+2. Please go to one of the following lessons, choose one episode of a
+  lesson (for recommendations on specific episodes, see the list below)
+  and read through it carefully:
 
-- ["The Science of Learning"](./files/papers/science-of-learning-2015.pdf)
-- "The Carpentries Annual Report" (most recent version from [The Carpentries Impact page](https://carpentries.org/about-us/impact/))
+  - [The Bash Shell](https://southampton-rsg-training.github.io/shell-novice/)
+  - [Building Programs with Python](https://southampton-rsg-training.github.io/python-novice/)
+  - [Introductory Data Management with R](https://southampton-rsg-training.github.io/r-novice/)
+  - [Version Control with Git](https://southampton-rsg-training.github.io/git-novice/)
+  - TODO: add any others?
+
+  You will be asked to teach a 3 minute participatory segment of its
+  content twice during the afternoon the workshop (i.e. using live coding
+  or live demonstration). Note that these presentations are expected to
+  be rough, not polished -- you should be familiar with the content but
+  please do not over-prepare. This preparation should take no more than
+  20-30 minutes.
+
+3. Please read the ["The Science of Learning"](./files/papers/science-of-learning-2015.pdf) before the event.
 
 **For Online Events:**  
-4\. Please ensure that your computer and internet are sufficient to connect via Zoom
-for the full event. You will need to have the bandwidth to transmit video during your practice exercises.
+
+4. Please ensure that your computer and internet are sufficient to
+connect via Zoom or MS Teams for the full event. You will need to have
+the bandwidth to transmit video during your practice exercises.
 
 **For In-Person Events:**  
-4\. We will be recording one another teaching in pairs or threes during the class,
-so please bring a cell phone or hand-held camera that can record audio and video.
-It does not have to be high-quality, but it should be good enough that you can understand what someone is saying.
-5\. Please also bring a laptop powerful enough to teach on so that you can take part
-in all of the practical exercises (a tablet will not be sufficient).
 
-## Checkout: The Instructor Certification Process
+5. We will be recording one another teaching in pairs or threes during
+the class, so please bring a cell phone or hand-held camera that can
+record audio and video. It does not have to be high-quality, but it
+should be good enough that you can understand what someone is saying.
+6. Please also bring a laptop powerful enough to teach on so that you
+can take part in all of the practical exercises (a tablet will not be
+sufficient).
 
-After this course is over, you will be asked to do three short follow-up exercises online
-in order to finish certification as an Instructor: the details are available on the [Checkout Instructions page](checkout.md).
+## Checkout
 
-If you have any questions about the workshop, the reading material, or anything else, please [email us](mailto:instructor.training@carpentries.org)!
+TODO: define any checkout procedures we want here, i.e. things we want learners to do following the workshop to show commitment/competence
+
+After this course is over, you will be asked to do three short follow-up
+exercises online in order to finish certification as an Instructor: the
+details are available on the [Checkout Instructions page](checkout.md).
+
+If you have any questions about the workshop, the reading material, or
+anything else, please [email us](mailto:email@example.com)!
 
 ## Recommended Episodes
 
-If you are having trouble choosing an episode, we recommend choosing one of the following:
+If you are having trouble choosing an episode, we recommend choosing one
+of the following (you only need to select a 3 minute segment):
 
- - Data Carpentry   
-    - [Exploring Data with OpenRefine](https://datacarpentry.github.io/OpenRefine-ecology-lesson/03-exploring-data.html)
-    - [Basic Queries in SQL](https://datacarpentry.github.io/sql-ecology-lesson/01-sql-basic-queries.html)
-    - [Starting with Data in Python](https://datacarpentry.github.io/python-ecology-lesson/02-starting-with-data.html)
-    - [Dates as Data in Excel](https://datacarpentry.github.io/spreadsheet-ecology-lesson/03-dates-as-data.html)
-    - [Exploring and Understanding Data in R](https://datacarpentry.github.io/R-ecology-lesson/how-r-thinks-about-data.html)
-  - Library Carpentry    
-    - [Working with Files and Directories in the Unix Shell](https://librarycarpentry.github.io/lc-shell/03-working-with-files-and-folders.html)
-    - [Faceting and filtering in Open Refine](https://librarycarpentry.github.io/lc-open-refine/04-faceting-and-filtering.html)
-    - [For loops in Python](https://librarycarpentry.github.io/lc-python-intro/for-loops.html)
-  - Software Carpentry    
-    - [Working with Files and Directories in the Unix Shell](https://swcarpentry.github.io/shell-novice/03-create.html)
-    - [Tracking Changes in Git](https://swcarpentry.github.io/git-novice/04-changes.html)
-    - [Selecting Data in SQL](https://swcarpentry.github.io/sql-novice-survey/01-select.html)
-    - [Repeating Actions with Loops in Python](https://swcarpentry.github.io/python-novice-inflammation/05-loop.html)
-    - [Exploring Data Frames in R](https://swcarpentry.github.io/r-novice-gapminder/05-data-structures-part2.html)
-
-
+- [Files and Directories](https://southampton-rsg-training.github.io/shell-novice/shell-novice-files-and-directories)
+- [Tracking Changes in Git](https://southampton-rsg-training.github.io/git-novice/git-novice-tracking-changes)
+- [Repeating Actions with Loops in Python](https://southampton-rsg-training.github.io/python-novice/python-novice-repeating-actions-using-loops)
+- [Manipulating Data](https://southampton-rsg-training.github.io/r-novice/r-novice-manipulating-data)
+- TODO: any others?
