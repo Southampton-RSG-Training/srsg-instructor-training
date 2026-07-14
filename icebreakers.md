@@ -6,12 +6,12 @@ title: Icebreakers
 
 ### Information for Today's Learners
 
-1. Add your name to the Etherpad
+1. Add your name to the shared notes
 2. Introduce yourselves (preferably verbally)! In your introduction, (a) explain your work in 3 words and (b) say something you are proud of (not necessarily related to research or teaching).
 
 ### Our First Exercise
 
-In the Etherpad, write down your name, the best class you ever
+In the shared notes, write down your name, the best class you ever
 took (or one class from your top ten, if you cannot decide), and
 what made it so great.
 This exercise should take about 2 minutes.
@@ -19,16 +19,11 @@ This exercise should take about 2 minutes.
 ### Something Surprising
 
 Find someone who shares something surprising with you (e.g. your pet has the same name,
-or you both brush your teeth in the shower). Put your "surprise" similarity into the Etherpad when
+or you both brush your teeth in the shower). Put your "surprise" similarity into the shared notes when
 you come back from break and vote on the most surprising.
 
 We really want you to get to know your fellow learners and become comfortable interacting. There
 will be several interactive activities in the next two days. Let us all start bonding now.
-
-### Discussing Concept Maps
-
-Do concept maps feel useful to you?
-Are there other ways of drawing knowledge that appeal to you more?
 
 ### Discussing Live Coding
 
