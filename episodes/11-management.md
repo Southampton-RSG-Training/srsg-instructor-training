@@ -1,5 +1,5 @@
 ---
-title: Working With Your Team
+title: How to Run an SRSG Training Workshop
 block: Building Teaching Skill
 teaching: 15
 exercises: 15
@@ -185,7 +185,7 @@ Instructors have generated to deal with this issue:
   class, no matter how interesting it may be. This can alienate novices
   and consumes precious time. Advanced questions and comments can be
   politely reserved for breaks, addressed individually by helpers or the
-  co-Instructor, or typed in the Etherpad for present or future
+  co-Instructor, or typed in the shared document for present or future
   follow-up.
 - The helpers and non-teaching co-Instructor(s) should **be vigilant for
   learners who are falling behind** and intervene early so that they do

@@ -52,19 +52,23 @@ situations. How are experts different from both of these groups?
 
 ## What Is An Expert?
 
+5 mins.
+
 What is something that you are an expert in? How does your experience
 when you are acting as an expert differ from when you are not an expert?
+Add your thoughts to the shared document.
 
-This discussion should take about 5 minutes.
-
-
-::::::::::::::::::::::::::::::::::::::::::::::::::
-
-::::::::::::::::::::::::::::::::::::::: instructor
+:::::::::::::::  solution
 
 Some points to touch on in discussion:
-- the feeling of expertise as an instructor vs practitioner
-- the difference between expert knowledge in the topic and expertise in communicating about the topic
+
+- The difference in feeling of expertise as:
+  - A Practitioner: confidence comes from repeatedly solving real problems under realistic conditions
+  - An Instructor: being confident in explaining concepts clearly and guide others through the learning process
+
+- The difference between expert knowledge in the topic and expertise in communicating about the topic
+
+:::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -110,7 +114,7 @@ spot*, although we avoid this term since it can be exclusionary to refer
 to a disability for other purposes, and we strive to create an inclusive
 environment for workshop instructors as well as learners.
 
-¡Awareness gaps can lead to some interesting reversals in the classroom.
+Awareness gaps can lead to some interesting reversals in the classroom.
 While deep expertise in a subject area can be valuable when teaching, it
 can also create obstacles that must be overcome with practice. People
 with less expertise, who still remember what it is like to have to learn
@@ -135,7 +139,7 @@ they are.
 Choose one of the following two prompts to write about in the shared
 document:
 
-1. Is there anything you are learning how to do right now?  Can you
+1. Is there anything you are learning how to do right now? Can you
   identify something that you still need to think about, but your teacher
   can do without thinking about it?
 2. Think about the area of expertise you identified for yourself earlier.
@@ -173,8 +177,6 @@ language and replace it with more positive and motivating word choices.
 Write your examples and alternatives in the shared document.
 
 :::::::::::::::  solution
-
-## Solution
 
 It is hard to break the habit of trying to convince learners that a task
 is "easy"! A few alternatives might include statements like:
@@ -246,7 +248,7 @@ tasks.
 
 As we have seen, the high connectivity of an expert's mental model poses
 challenges while teaching novices. However, that is not to say that
-experts cannot be great teachers!  Because of their well-connected
+experts cannot be great teachers! Because of their well-connected
 knowledge, self-aware experts are well-poised to help students make
 meaningful connections, to confidently turn an error into a learning
 opportunity, or to explain a complex topic in multiple ways. Experts can
@@ -335,7 +337,7 @@ score distribution.
 Try a short [test of working memory][memory-test] at [https://miku.github.io/activememory/][memory-test].
 
 What was your score? If you are comfortable, share your answer
-in the Etherpad.
+in the shared document.
 
 If you are unable to use this activity, ask your Trainer to implement the
 analog version of this test.
