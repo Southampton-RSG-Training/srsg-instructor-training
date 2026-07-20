@@ -113,17 +113,19 @@ within a single lesson.
 
 ## Authentic Tasks: Think, Pair, Share
 
-10 mins.
+5 mins.
 
 **Think** about some task you did this week that uses one or more of the
 skills we teach, (e.g. wrote a function, bulk downloaded data, built a
 plot in R, forked a repo) and explain how you would use it (or a
 simplified version of it) as an exercise or example in class. **Pair** up
 with your neighbor and decide where this exercise fits on a graph of
-"short/long time to master" and "low/high usefulness". In the class
-Etherpad, **share** the task and where it fits on the graph,  using the
-lettered points in the diagram below. As a group, we will discuss how
-these relate back to our "teach most immediately useful first" approach.
+"short/long time to master" and "low/high usefulness".
+
+In the shared document, **share** the task and where it fits on the
+graph, using the lettered points in the diagram below. As a group, we
+will discuss how these relate back to our "teach most immediately useful
+first" approach.
 
 ```mermaid
 %%{init: {"quadrantChart": {"xAxisPosition": "bottom"}, "themeVariables": {} }}%%
@@ -139,7 +141,7 @@ quadrantChart
     topic B : [0.85, 0.25]
     topic C: [0.8, 0.8]
     topic D: [0.2, 0.15]
-accDescr {A quadrant chart, 2x2 grid, with y-axis labeled quick to master --> slow to master and and x-axis labeled  used rarely --> used frequently. The upper left quadrant says "teach this first" and the lower right quadrant says "do not bother"}
+accTitle: A quadrant chart, 2x2 grid, with y-axis labeled quick to master --> slow to master and and x-axis labeled  used rarely --> used frequently. The upper left quadrant says "teach this first" and the lower right quadrant says "do not bother"
 ```
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -148,7 +150,7 @@ accDescr {A quadrant chart, 2x2 grid, with y-axis labeled quick to master --> sl
 
 ## Actual Time
 
-∑Any useful estimate of time must take into account **how frequent
+Any useful estimate of time must take into account **how frequent
 failures are** and how much time is lost to them. For example, editing a
 text file seems like a quick task, but most graphical editors save things
 to the user's desktop or home directory. If a novice needs to run shell
@@ -172,6 +174,7 @@ precious first minutes into an experience of frustration and impatience.
 That is ok! What is important is to **be mindful of times when your
 content is not motivating**, and to strategise ways to re-engage learners
 (and yourself) using some of the other techniques in this section.
+
 
 ## How Can You Affect Motivation?
 
@@ -205,35 +208,22 @@ demotivating or are present in the motivating examples.
 
 ### Invite Participation
 
-Motivation is supported by active engagement. Participation allows
-learners to ask questions, resolving roadblocks quickly, and demonstrate
-knowledge, building confidence. It also facilitates learning! However, in
-a room full of strangers, **most learners will not immediately feel
-comfortable speaking up**, especially when they feel confusion or doubt.
-Creating a motivating classroom means inviting communication and
-reinforcing that invitation with an attentive response.
+Active participation increases motivation by helping learners ask
+questions, overcome obstacles, build confidence, and learn from one
+another. Because many learners are initially reluctant to speak up,
+create an environment where communication is welcomed and encouraged.
 
-A few ways to invite participation are:
+Ways to encourage participation include:
 
-- **Establishing norms for interaction**. Such as providing multiple
-  channels of communication which lower barriers to communication, like
-  encouraging input via virtual meeting chat or a shared GoogleDoc as
-  well as verbally. Having, discussing, and enforcing a [Code of
-  Conduct](https://docs.carpentries.org/policies/coc/) also provides a
-  framework for positive communication to occur.
-- **Encouraging learners to learn from each other**. Working in pairs, or
-  *[pair programming](https://en.wikipedia.org/wiki/Pair_programming)*,
-  encourages learners to talk through their learning process, reinforcing
-  memory and making it more likely that confusion will be expressed and
-  resolved. This can also address challenges of varying background
-  experience: asking more advanced learners to help beginners can
-  maximise learning for both. In these cases, make sure the beginner is
-  doing the typing!
-- **Acknowledging when learners are confused**. Acknowledging and
-  exploring confusion with kindness rewards learners for sharing
-  vulnerable information. It also helps you examine your expert awareness
-  gaps! When learners see that others are confused, they are more likely
-  to share their own uncertainties.
+- Establish clear interaction norms, offering multiple ways to contribute
+  (e.g. verbally, chat, or shared documents) and using a clear Code of
+  Conduct.
+- Promote peer learning, such as [pair programming](https://en.wikipedia.org/wiki/Pair_programming),
+  so learners can discuss ideas, reinforce understanding, and support each
+  other. Ensure the less experienced learner does the typing!
+- Respond positively to confusion by acknowledging questions and
+  uncertainty. This encourages others to speak up and helps identify gaps
+  in understanding.
 
 ### Encourage a Growth Mindset
 
@@ -405,7 +395,8 @@ What we have not discussed yet is strategies to motivate the
 *instructor*. But why does *your* motivation matter?
 
 - **Learners respond to an instructor's enthusiasm**. The more motivated
-  you are, the more motivated they will be!
+  you are, the more motivated they will be. Teaching enthusiasm has been
+  consistently linked to better learning outcomes.
 - **Instructors are learning to teach.** This takes motivation, too!
   Deliberative practice, seeking feedback, and reflecting on mistakes in
   the context of your own busy work life is a challenge. What will keep
@@ -437,22 +428,6 @@ participants have an equal opportunity to learn and contribute.
 - *Accessibility* means approaching and designing learning so that as
   many people as possible can access and engage with it.
 
-:::::::::::::::::::::::::::::::::::::::  challenge
-
-## What Happens when Accessibility is an Issue?
-
-5 mins.
-
-Think of a time when you have been affected by, or noticed someone else
-being affected by barriers to accessibility. This may have been at a
-conference you attended where the elevator was out of service, or maybe a
-class you were taking relied on audio delivery of content. Describe what
-happened, how it impacted your (or someone else’s) ability to be involved
-and what could have been done to provide better accessibility in this
-case.
-
-::::::::::::::::::::::::::::::::::::::::::::::::::
-
 ### Recognising Bias
 
 Everyone relies on unconscious assumptions and stereotypes, but these can
@@ -474,20 +449,14 @@ We create an inclusive environment in our workshops by:
 Small, incremental improvements make a meaningful difference and help
 create workshops where every learner has the opportunity to succeed.
 
-### Key Takeaways
-
-- Remove barriers to participation wherever practical rather than relying
-  on individual requests.
-- Foster a respectful, welcoming environment where everyone can
-  participate.
-- Regularly reflect on your teaching and use learner feedback to improve
-  inclusivity.
-
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
 - A positive learning environment helps people concentrate on learning.
 - People learn best when they see the utility in what they're learning and believe it can be accomplished with reasonable effort.
 - Encouraging participation and embracing errors helps learners to stay motivated.
+- Remove barriers to participation wherever practical rather than relyiny on individual requests.
+- Foster a respectful, welcoming environment where everyone can participate.
+- Regularly reflect on your teaching and use learner feedback to improve inclusivity.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 

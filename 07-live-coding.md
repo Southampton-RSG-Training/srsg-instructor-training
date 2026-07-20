@@ -44,7 +44,7 @@ learners code along as **participatory live coding** or, less formally,
 ## Anticipate the Impact
 
 List some advantages and challenges of participatory live coding from
-both a learner's and an instructor's point of view in the Etherpad.
+both a learner's and an instructor's point of view in the shared document.
 
 This discussion should take about 5 minutes.
 
@@ -123,7 +123,7 @@ Watch the following two participatory live coding demo videos as a group:
 - [https://youtu.be/bXxBeNkKmJE][live-coding-bad]
 - [https://youtu.be/SkPmwe\_WjeY][live-coding-good]
 
-After watching, summarise your feedback on both in the Etherpad.
+After watching, summarise your feedback on both in the shared document.
 Use the 2x2 rubric for feedback we discussed earlier.
 
 In the videos, the bash shell `for` loop is taught, and it is assumed
@@ -188,7 +188,7 @@ made.
   teaching and test the effect of your modification. Some instructors use
   printouts of the lesson material during teaching. Others use a second
   device (tablet or laptop) when teaching, on which they can view their
-  notes and the Etherpad session.  This seems to be more reliable than
+  notes and the shared document session.  This seems to be more reliable than
   displaying one virtual desktop while flipping back and forth to
   another.
 8. **Leave no learner behind.** You will learn later in the training [how
@@ -222,7 +222,7 @@ Read more in [Ten quick tips for teaching with participatory live-coding][live-c
    (starting with themselves) using the same 2x2 rubric introduced in
    part 2 The timekeeper should keep feedback discussion to about 1
    minute per person; this may leave some time at the end for general
-   discussion. The note-taker should record feedback in the Etherpad.
+   discussion. The note-taker should record feedback in the shared document.
 5. Trade off roles.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::

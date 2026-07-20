@@ -203,7 +203,7 @@ b) make learners aware of their accomplishment?
 
 Keep in mind that formative assessment can take many forms, including multiple
 choice questions, other exercises, spontaneous questions and calls for sticky
-notes. Write some notes or thoughts about this process in the Etherpad for
+notes. Write some notes or thoughts about this process in the shared document for
 discussion.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
