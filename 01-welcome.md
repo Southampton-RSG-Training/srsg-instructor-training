@@ -32,59 +32,22 @@ trainer claims host, and that the host adds other trainers as co-hosts.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-::::::::::::::::::::::::::::::::::::::  discussion
-
-## Pronouns and Names
-
-Using correct names and pronouns (e.g. "she/her") is important for
-setting a respectful tone. Learning these is hard to do quickly, so we
-recommend displaying it prominently during the training.
-
-In an online training, give everyone a moment to update their display
-name to reflect how they would like to be addressed.
-
-At an in-person event, we recommend supplying name tags and markers, or
-using plain paper to create table-displayed name placards.
-
-Note that pronouns are personal and some participants might prefer not to
-share them. Do not force people to share their pronouns. One reason to
-avoid pressuring people to share them is to allow people to share their
-gender identity only when they feel ready to. It is, however, necessary
-for all participants to use pronouns and names as listed when
-participants provide them.
-
-::::: spoiler
-
-### Further reading on pronouns
-
-The resources below can provide additional guidance on respectful pronoun
-usage:
-
-- The proper use of pronouns in language: [https://lgbt.ucsf.edu/pronounsmatter](https://lgbt.ucsf.edu/pronounsmatter)
-- The importance of using pronouns: [https://www.pronouns.org/](https://www.pronouns.org/)
-- How to use personal pronouns: [https://www.pronouns.org/how](https://www.pronouns.org/how)
-- How to deal with situations when you use the wrong pronoun: [https://www.pronouns.org/mistakes](https://www.pronouns.org/mistakes)
-
-:::::
-
-::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![A different kind of "icebreaker." Photo credit: Grand-Duc, Wikipedia, [http://en.wikipedia.org/wiki/User:Grand-Duc](https://en.wikipedia.org/wiki/User:Grand-Duc)](fig/Icebreaker_Stephan_Jantzen_in_Stadthafen_Rostock_2010-12-28_perspective_correction-GD.jpg){alt='Photo of an Icebreaker ship, named Stephan Jantzen' width="600px" }  
-
-
 ## Before The Course Begins
-
 
 :::::::::::::::::::::::::::::::::::::::  instructor
 
-## Getting to know each other
+## Getting to know each other: an Icebreaker
 
 There are multiple ways to build a sense of community early in an
 instructor training event and help ensure participants engage fully with
-one another. Some example activities are:
+one another.
 
-- Include an [icebreaker question](icebreakers.md) in the sign-in section or separately on the shared document
-- Invite participants to share their names (and optionally pronouns) verbally and/or share their icebreaker answers
+![A different kind of "icebreaker." Photo credit: Grand-Duc, Wikipedia, [http://en.wikipedia.org/wiki/User:Grand-Duc](https://en.wikipedia.org/wiki/User:Grand-Duc)](fig/Icebreaker_Stephan_Jantzen_in_Stadthafen_Rostock_2010-12-28_perspective_correction-GD.jpg){alt='Photo of an Icebreaker ship, named Stephan Jantzen' width="600px" }
+
+Some example activities are:
+
+- Include an explicit [icebreaker question](icebreakers.md) in the sign-in section or separately on the shared document
+- Invite participants to share their names (and optionally pronouns - see below) verbally and/or share their icebreaker answers
 - Model informal chat as participants come into the room on Day 1, particularly if a number of participants are early or late
 
 Hearing participants say their own names is especially valuable in online
@@ -96,6 +59,27 @@ of time considerations, given the number of participants and expected
 timing. Balancing what is done in the shared document and verbally can
 help, as can avoiding activities that are likely to encourage longer
 introductions or extended interaction at this point.
+
+::::: spoiler
+
+### Further Reading on Pronouns
+
+Note that pronouns are personal and some participants might prefer not to
+share them. Do not force people to share their pronouns. One reason to
+avoid pressuring people to share them is to allow people to share their
+gender identity only when they feel ready to. It is, however, necessary
+for all participants to use pronouns and names as listed when
+participants provide them.
+
+The resources below can provide additional guidance on respectful pronoun
+usage:
+
+- The proper use of pronouns in language: [https://lgbt.ucsf.edu/pronounsmatter](https://lgbt.ucsf.edu/pronounsmatter)
+- The importance of using pronouns: [https://www.pronouns.org/](https://www.pronouns.org/)
+- How to use personal pronouns: [https://www.pronouns.org/how](https://www.pronouns.org/how)
+- How to deal with situations when you use the wrong pronoun: [https://www.pronouns.org/mistakes](https://www.pronouns.org/mistakes)
+
+:::::
 
 :::::::::::::::::::::::::::::::::::::::  
 
