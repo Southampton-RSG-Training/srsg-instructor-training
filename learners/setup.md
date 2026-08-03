@@ -16,7 +16,7 @@ training_site: https://carpentries.github.io/instructor-training
 
   - [The Bash Shell](https://southampton-rsg-training.github.io/shell-novice/)
   - [Building Programs with Python](https://southampton-rsg-training.github.io/python-novice/)
-  - [Introductory Data Management with R](https://southampton-rsg-training.github.io/r-novice/)
+  - [Data Analysis and Visualisation in R](https://southampton-rsg-training.github.io/data-analysis-and-visualisation-r/)
   - [Version Control with Git](https://southampton-rsg-training.github.io/git-novice/)
   - TODO: add any others?
 
@@ -64,5 +64,5 @@ of the following (you only need to select a 3 minute segment):
 - [Files and Directories](https://southampton-rsg-training.github.io/shell-novice/shell-novice-files-and-directories)
 - [Tracking Changes in Git](https://southampton-rsg-training.github.io/git-novice/git-novice-tracking-changes)
 - [Repeating Actions with Loops in Python](https://southampton-rsg-training.github.io/python-novice/python-novice-repeating-actions-using-loops)
-- [Manipulating Data](https://southampton-rsg-training.github.io/r-novice/r-novice-manipulating-data)
+- [Manipulating Data: Section on Managing Data with Dplyr](https://southampton-rsg-training.github.io/data-analysis-and-visualisation-r/2-wrangling-data.html#managing-data-with-dplyr)
 - TODO: any others?

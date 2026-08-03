@@ -203,46 +203,6 @@ leaving a healthy pause for consideration. This firmly establishes an
 expectation that people will, indeed, have questions, and should
 challenge themselves to formulate them.
 
-## You Are Not Your Learners
-
-As you seek to re-acquaint yourself with the novice experience, it can be
-tempting to think back to your own experiences getting started in
-programming. Trips down memory lane can be productive! However, it is
-important that you take care not to generalise from your experience to
-that of your novice learners.
-
-We will talk more about knowing your audience in a later episode. For
-now, here are two points to keep in mind when contemplating the learner
-experience:
-
-- In most cases a researcher's **primary goal is not to learn
-  programming**, but to do better and more efficient research. They may
-  not wish to take the time to learn how fundamental syntax or data
-  structures work, or to learn any 'fun facts' that are not strictly
-  necessary; they just want to know how to get their work done. This does
-  not mean they never will be interested -- maybe this is how you got
-  your start, too! But if you began with an interest in programming, keep
-  in mind that this can make their learning experience very different
-  from yours.
-- Some researchers have avoided learning programming previously because
-  they believe that the time investment will be excessive and will
-  interfere with their other work. These kinds of beliefs can make their
-  motivation to persevere more fragile than yours might have been when
-  you got started.
-
-:::::::::::::::::::::::::::::::::::::::::  callout
-
-## A Carpentry-style Workshop Is Not Computer Science
-
-Many of the foundational concepts of computer science, such as
-computability, are difficult to learn and not immediately useful. This
-does *not* mean that they are not important, or are not worth learning,
-but if our aim is to convince people that they can learn this stuff, and
-that doing so will help them do more research faster, computer science
-concepts are less compelling than things like automating repetitive
-tasks.
-
-::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Expert Advantages
 
@@ -256,6 +216,7 @@ be highly effective as long as they **learn to identify and correct for
 their own expert awareness gaps**. Whether or not you identify as an
 expert, we hope this episode has started you on the path toward
 developing that skill.
+
 
 ## The Importance of Practice (Again)
 
@@ -400,7 +361,9 @@ memory.
   Pedagogical studies confirm that some of the most useful learning
   happens between peers, as they explore their understanding (and
   misunderstandings) with others at a similar level.
-- *Reflection*: Asking learners to summarise, review, or provide feedback encourages retrieval and helps consolidate learning into long-term memory.
+- *Reflection*: Asking learners to summarise, review, or provide feedback
+  encourages retrieval and helps consolidate learning into long-term
+  memory.
 - *Limit new concepts*: Avoid introducing too many ideas at once.
   Focusing on a smaller number of well-connected concepts reduces
   cognitive overload, and tools such as concept maps can help keep
@@ -429,7 +392,8 @@ learning:
   ("intrinsic").
 - Mental effort required to **connect the task** to new and old
   information ("germane").
-- **Distractions** and other mental effort not directly related to
+- **Distractions**, **badly designed learning materials and
+  presentation**, and other mental effort not directly related to
   performing or learning from the task ("extraneous").
 
 Cognitive load is not always a bad thing! There is plenty of evidence

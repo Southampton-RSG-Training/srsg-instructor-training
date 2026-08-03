@@ -1,8 +1,8 @@
 ---
 title: Building Skill With Practice
 block: How Learning Works
-teaching: 20
-exercises: 10
+teaching: 25
+exercises: 5
 ---
 
 ::::::::::::::::::::::::::::::::::::::: objectives
@@ -129,31 +129,6 @@ While there will always be inaccuracies -- or "misconceptions" -- these
 do not interfere with day-to-day functioning. A useful model does not
 seize up or break down entirely as new concepts are added.
 
-### The power (and limitations) of analogies
-
-Some mental models can be succinctly summarised by comparison to
-something else that is more universally understood. Good analogies can
-be extraordinarily useful when teaching, because they draw upon an
-existing mental model to fill in another, speeding learning and making a
-memorable connection. However, all analogies have limitations! If you
-choose to use an analogy, be sure its usefulness outweighs its potential
-to generate misconceptions that may interfere with learning.
-
-::: challenge
-## Analogy Brainstorm
-
-1.  Think of an analogy to explore. Perhaps you have a favourite that
-    relates to your area of professional interest, or a hobby. If you
-    prefer to work with an example, consider this analogy from
-    education: "teaching is like gardening."
-2.  Share your analogy with a partner or group. (If you have not yet
-    done so, be sure to take a moment to introduce yourself, first!)
-    What does your analogy convey about the topic? How is it useful? In
-    what ways is it wrong?
-
-This activity should take about 10 minutes.
-:::
-
 A mental model may be represented as a collection of concepts and facts,
 connected by relationships. The mental model of an expert in any given
 subject will be far larger and more complex than that of a novice,
@@ -181,6 +156,21 @@ Returning to our example levels of skill development:
 
 ![](fig/mental_models.svg){alt="Three collections of six circles. The first collection is labelled \"Novice\" and has only two arrows connecting some of the circles. The second collection, labelled \"Competent Practitioner\" has six connecting arrows. The third collection, labelled \"Expert\", is densely connected, with eight connecting arrows."}
 
+::: challenge
+
+## Useful Mental Models in your Domain
+
+5 mins.
+
+Think of a concept, process or system from your own field that you've
+been taught or teach to others. Individually, identify a mental model
+(e.g. analogies, diagrams, simplified explanations or conceptual
+frameworks) that is used to help learners understand it, and summarise it
+briefly in the shared document.
+
+:::
+
+
 ## Misconceptions
 
 Mental models are typically formed from limited experience and may work
@@ -189,17 +179,12 @@ misconceptions. Effective learning therefore requires more than adding
 new information; it involves testing, revising, and reorganising existing
 mental models in response to new evidence. Teaching should support this
 process by helping learners make their thinking explicit, challenge their
-assumptions, and develop more accurate and robust understandings.
+assumptions, and develop more accurate and robust understanding.
 
 When mental models break, learning can occur more slowly than you might
 expect. The longer a prior model was in use, and the more extensively it
 has to be *unlearned*, the more it can actively interfere with the
-incorporation of new knowledge. Our child may quickly adapt to this new
-information if they had never thought much about mass before and were
-simply trying out an existing mental model on a new situation. However,
-if they had extensive experience with balls that were both larger and
-heavier (for example), it may take longer to unlearn what they thought
-they understood about mass.
+incorporation of new knowledge.
 
 ### Types of Misconceptions
 
@@ -208,48 +193,38 @@ presenting them with correct information. There are many ways of
 classifying different types of misconceptions. For our purposes, it is
 useful to consider 3 broad categories:
 
--   Simple *factual errors*. These exist in isolation from any deeper
-    understanding. These are the easiest to correct. Example: believing
-    that Vancouver is the capital of British Columbia.
--   *Broken models*. These occur when inaccuracies explain relationships
-    and generate predictions (often successfully!) in an existing mental
-    model. These take time to address, demanding that learners reason
-    carefully through examples to see contradictions. Examples:
-    believing that motion and acceleration must always be in the same
-    direction, or that seasons are related to the shape of the earth's
-    orbit.
--   *Fundamental beliefs*, which are deeply connected to a learner's
-    social identity and are the hardest to change. Examples: "the world
-    is only a few thousand years old" or "human beings cannot affect the
-    planet's climate". "I am not a computational person" may, arguably,
-    also fall into this category of misconception.
+- Simple *factual errors*. These exist in isolation from any deeper
+understanding. These are the easiest to correct. Example: believing that
+Vancouver is the capital of British Columbia.
+- *Broken models*. These occur when inaccuracies explain relationships
+and generate predictions (often successfully!) in an existing mental
+model. These take time to address, demanding that learners reason
+carefully through examples to see contradictions. Examples: believing
+that motion and acceleration must always be in the same direction, or
+that seasons are related to the shape of the earth's orbit.
+- *Fundamental beliefs*, which are deeply connected to a learner's
+social identity and are the hardest to change. Examples: "the world is
+only a few thousand years old" or "human beings cannot affect the
+planet's climate". "I am not a computational person" may, arguably, also
+fall into this category of misconception.
 
 The middle category of misconceptions is the most useful type to watch
 out for in Carpentries-style workshops. While teaching, we want to expose
 learners' broken models so that we can help them begin to deconstruct
 them and build better ones in their place.
 
-::: challenge
-## Anticipating Misconceptions
-
-5 mins.
-
-Describe a misconception you have encountered as a teacher or as a learner.
-:::
+::: callout
 
 ## Using Formative Assessment to Identify Misconceptions
 
-In order to effectively root out pre-existing misconceptions that need
-to be un-learned and stop quietly developing misconceptions in their
-tracks, an Instructor needs to be actively and persistently looking for
-them. But how?
+As an instructor we should aim to help learners identify misconceptions
+so they are able to address them.
 
-Like so many challenges we will discuss in this training, the answer is
-**feedback**. In this case, we want feedback that allows us to
-**assess** the developing mental model of a trainee in highly specific
-ways, to verify that learning is proceeding according to plan and not
-careening off in some unpredicted direction. We want to get this
-feedback **while we teach** so that we can respond to that information
+Feedback is a key tool to accomplish this. In this case, we want feedback
+that allows us to assess the developing mental model of a trainee in
+highly specific ways, to verify that learning is proceeding according to
+plan and not careening off in some unpredicted direction. We want to get
+this feedback while we teach so that we can respond to that information
 and adapt our instruction to get learners back on track.
 
 This kind of assessment has a name: it is called **formative
@@ -260,25 +235,9 @@ not used to guide further progress and are hence called **summative**.
 
 Feedback from formative assessment illuminates misconceptions for both
 Instructors and learners. It also provides reassurance on both sides
-when learning *is* proceeding on track! It is far more reliable than
-reading faces or using feelings of comfort as a metric, which tends to
-be what Instructors and learners default to otherwise.
-
-::: challenge
-## Formative Assessments
-
-5 mins.
-
-Any instructional tool that generates feedback that is used in a
-formative way can be described as "formative assessment." Based on your
-previous educational experience (or even this training so far!) what
-types of formative assessments do you know about?
-
-Write your answers in the shared document; or go around and have each
-person in the group name one.
+when learning *is* proceeding on track.
 
 :::
-
 
 ## The Importance of Going Slowly
 
@@ -318,16 +277,15 @@ and make connections among concepts. We *do not* want to overload them
 with a slew of unrelated facts, as this will be confusing.
 
 An important practical implication of this latter point is the pace at
-which we teach.\
-In the first main episode of Software Carpentry's [lesson on the Unix
-shell](https://swcarpentry.github.io/shell-novice/), which covers
-"Navigating Files and Directories", there are only four "commands" for
-40 minutes of teaching. Ten minutes per command may seem glacially slow,
-but that episodes's real purpose is to teach learners about paths; later
-on, they will learn about history, wildcards, pipes and filters,
-command-line arguments, redirection, and all the other big ideas on
-which the shell depends, and without which people cannot understand how
-to use commands.
+which we teach. In the first main episode of the
+[lesson on the Unix shell](https://southampton-rsg-training.github.io/shell-novice/shell-novice-files-and-directories),
+which covers "Navigating Files and Directories", there are only four
+"commands" for 40 minutes of teaching. Ten minutes per command may seem
+glacially slow, but that episodes's real purpose is to teach learners
+about paths; later on, they will learn about history, wildcards, pipes
+and filters, command-line arguments, redirection, and all the other big
+ideas on which the shell depends, and without which people cannot
+understand how to use commands.
 
 That mental model of the shell also includes things like:
 
