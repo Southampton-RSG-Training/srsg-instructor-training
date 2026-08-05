@@ -22,43 +22,25 @@ exercises: 15
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Never Teach Alone
 
-One of the greatest strengths of Carpentries workshops compared with many
-other instructional settings is that workshops are prepared and executed
-by more than one person. We ask that at least two Instructors teach in
-every workshop, and some workshops may have many more! During the
-workshop, you should also have a crew of helpers to answer questions
-individually, elevate common problems for general discussion, and make
-sure the pacing works for everyone.
-
-The people who are planning and executing your workshop with you can
-really lighten the load! They are also there to help if you find yourself
-in a sticky situation. However, from logistics planning to delicate
-problem solving, a little planning goes a long way, and all
-co-Instructors should be in agreement about how they will support each
-other in engaging challenges. In this episode, we will discuss examples,
+In this episode, we will discuss examples,
 strategies, and resources for handling challenges you may face in the
-classroom. We will also take some time to discuss planning logistics, and
-(time permitting) everyone will have an opportunity to try out our
-instructions for setting up a workshop website.
+classroom. 
 
 ## The Instructional Team
 
 A typical training workshop includes 3 roles; sometimes individuals may
-choose to play more than one role. Each workshop should have:
+ play more than one role. Each workshop should have:
 
 - A **host** who organises the workshop logistics
-- Two or more **Instructors** who plan and execute workshop instruction
-- **helpers** who support learners during the workshop
+- One or more **Instructors** who plan and execute workshop instruction
+- **Helpers** who support learners during the workshop
 
 ### Helpers
 
-[Helpers][helpers] are usually recruited from a local community by the
-host of a workshop. Helpers may be involved prior to the day of the
-workshop, but often they simply show up. In most cases, helpers are
-expected to attend for the full workshop, but in some communities they
-may come and go during different segments.
+Helpers are usually recruited from a local community by the
+host of a workshop. Usually we will try to recruit helpers from a similar dubject area as the learners, so that they can answer domain-specific questions. In most cases, helpers are
+expected to attend for the full workshop, with cameras switched on (if online).
 
 Helpers can assist in a variety of ways. They may:
 
@@ -70,20 +52,19 @@ Helpers can assist in a variety of ways. They may:
   the Instructor to do so during breaks
 
 In order to help effectively, helpers need to be onboarded to the basic
-elements of Carpentries teaching practices. [The helper checklist][helpers]
+elements of SRSG teaching practices. [The Carpentries helper checklist][helpers]
 includes a short list of "Teaching Rules" that may be shared with
-helpers. However, you will also want to make sure they are informed about
-key logistics and classroom practices.
+helpers. However, you will also want to make sure they are informed about logistics and classroom practices specific to each particular training course.
 
 ## Classroom Practices
 
 Instructors have many choices about how to teach. However, there are a
-few teaching practices that are expected in all Carpentries workshops.
+few teaching practices that are expected in all Carpentries-style workshops including SRSG workshops.
 These include:
 
 ### Starting with the Code of Conduct
 
-TODO: add link to SRSG CoC if we need one
+TODO: add link to SRSG CoC 
 
 ### Participatory Instruction \& Hands-off Help
 
@@ -116,8 +97,7 @@ people raise their hands because:
   to actually use these well (e.g. "please put up a blue sticky note if
   you completed the last step, and a yellow sticky note if you need
   help.").  
-  In online workshops, Zoom has a green "✓" and red "x" under "reactions"
-  that may be used in place of sticky notes.
+- In online workshops, you can post a message in the chat and ask the learners to react with one emoji (e.g. smiley face) if they have completed the last step or another (e.g. a surprised face) if they need herlp. Zoom has a green "✓" and red "x" under "reactions". 
 
 :::::::::::::::::::::::::::::::::::::::::  callout
 
@@ -219,8 +199,7 @@ community does not tolerate or encourage the persistence of harmful
 behaviors. In order for the code to work well, **incidents must be
 reported**. Note that it is not the responsibility of the reporter to
 determine whether a Code of Conduct violation has occurred; when in
-doubt, it is best to report an incident and allow the Code of Conduct
-Committee to make that determination.
+doubt, it is best to report an incident and allow the relevant SRSG staff members to make that determination.
 
 Rarely, your instructional team may encounter a Code of Conduct violation
 during a workshop. In addition to reporting this incident, you will need
@@ -234,16 +213,12 @@ team in advance**.
 
 ## Know the Code of Conduct
 
-TODO: add our own Code of Conduct incident response guidelines? Do we need this, or just Philly's contact details?
-
 5 mins.
 
-1. Take 5 minutes to read through the Code of Conduct [Incident Response
-   Guidelines](https://docs.carpentries.org/policies/coc/incident-response.html)
-   at
-   [https://docs.carpentries.org/policies/coc/incident-response.html](https://docs.carpentries.org/policies/coc/incident-response.html).
+1. Take 5 minutes to read through the SRSG Event Code of Conduct Incident Response Guidelines.  TODO: Develop these guidelines based on: https://docs.carpentries.org/policies/coc/incident-response.html)
 
-1. Write any questions you have in the shared document for the trainer to
+
+2. Write any questions you have in the shared document for the trainer to
    answer.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -254,7 +229,13 @@ make a difference.
 
 ## How we use Surveys
 
-TODO: add this in
+We ask learners to complete pre-workshop and post-workshop surveys. 
+
+In the pre-workshop survey we assess the baseline skills of the learners as well as some attendee information such as department, career stage and operating system.  We use this information to tailor the delivery to the skill level and research area of the learners. This survey should be sent out to the learners prior to the workshop but often many learners have not completed it by the start of the workshop.  Therefore, while waiting for learners to arrive, encourage those already there to complete the pre-workshop survey if they haven't already.
+
+After the workshop we ask the same skill questions as the pre-workshop survey so that we can assess whether those skills were learnt during the workshop. We also ask some questions about the workshop experience such as the speed, difficulty and amount of content, which we use to adapt the content for future workshops.
+
+As instructors, you should make sure you allow at least 5 minutes for the learners to complete the post-workshop survey at the end of the lesson. This feedback is really important for justifying the success of our workshops so we want to get as many survey responses as possible. Emphasise to the learners that we want to know what they liked as well as any suggestions for improvement. 
 
 
 [helpers]: https://docs.carpentries.org/resources/workshops/checklists.html#helper-checklist
