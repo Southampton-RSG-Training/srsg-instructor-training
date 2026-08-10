@@ -39,7 +39,7 @@ A typical training workshop includes 3 roles; sometimes individuals may
 ### Helpers
 
 Helpers are usually recruited from a local community by the
-host of a workshop. Usually we will try to recruit helpers from a similar dubject area as the learners, so that they can answer domain-specific questions. In most cases, helpers are
+host of a workshop. Usually we will try to recruit helpers from a similar subject area as the learners, so that they can answer domain-specific questions. In most cases, helpers are
 expected to attend for the full workshop, with cameras switched on (if online).
 
 Helpers can assist in a variety of ways. They may:
