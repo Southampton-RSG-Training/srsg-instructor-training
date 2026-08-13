@@ -368,44 +368,30 @@ memory.
   Focusing on a smaller number of well-connected concepts reduces
   cognitive overload, and tools such as concept maps can help keep
   lessons appropriately scoped.
+  
+### Cognitive Load
 
-## Attention is a Limited Resource: Cognitive Load
+Another concept to consider when instructing a workshop is cognitive load.
 
-Memory is not the only cognitive resource that is limited. Attention is
-constrained as well, which can limit the information that enters short
-term memory in the first place as well as interfere with attempts at
-consolidation.
+Cognitive Load Theory was proposed by Psychologist John Sweller in the 1980s and has been tested and adapted over the past four decades ([Sweller, 2011](https://www.sciencedirect.com/science/chapter/bookseries/abs/pii/B9780123876911000028?via%3Dihub)).
 
-While many people believe that they can "multi-task," the reality is that
-attention can only focus on one thing at a time. Adding items that demand
-attention adds more things to alternate between attending to, which can
-reduce efficiency and performance on all of them.
+Cognitive load refers to the amount of information that the active part of human memory can process at one time ([Ungvarsky, 2023](https://www.ebsco.com/research-starters/education/cognitive-load)).  It can also be thought of as the amount of mental effort required for a task.
 
-### The Theory of Cognitive Load
+We can consider two categories of cognitive load, intrinsic and extraneous ([Sweller, 2011](https://www.sciencedirect.com/science/chapter/bookseries/abs/pii/B9780123876911000028?via%3Dihub)):
 
-There are different [theories of cognitive load][wikipedia-cognitive-load].
-In one of these, [Sweller](https://doi.org/10.1207/s15516709cog1202_4)
-posits that people have to attend to three types of things when they are
-learning:
+- **Intrinsic cognitive load** is the complexity of knowledge that is being acquired without reference to how that knowledge is acquired.  This cannot be altered other than by altering what is to be learned or the levels of expertise of the learners.
+- **Extraneous cognitive load** is imposed, not due to the complexity of the information itself, but due to the manner in which it is presented.  This can be reduced by changing instructional procedures.
 
-- Things they have to think about in order to **perform a task**
-  ("intrinsic").
-- Mental effort required to **connect the task** to new and old
-  information ("germane").
-- **Distractions**, **badly designed learning materials and
-  presentation**, and other mental effort not directly related to
-  performing or learning from the task ("extraneous").
+Cognitive load is not always a bad thing! There is plenty of evidence that *some* difficulty is desirable and can increase learning. However, there are limits. Managing all forms of cognitive load, with particular attention to extraneous load, can help prevent **cognitive overload** from impeding learning altogether. 
 
-Cognitive load is not always a bad thing! There is plenty of evidence
-that *some* difficulty is desirable and can increase learning. However,
-there are limits. Managing all forms of cognitive load, with particular
-attention to extraneous load, can help prevent **cognitive overload**
-from impeding learning altogether.
+There are several effects of cognitive load theory that we as instructors can use in order to work with, rather than against, cognitive load when instructing workshops:
 
-One way to manage cognitive load as tasks become more complex is by using
-**guided practice**: creating a structure that narrowly guides focus on
-specific skills and knowledge in a stepped fashion, with feedback at each
-step before transferring attention to a new feature.
+1. **Isolated elements**: Under high intrinsic cognitive load (i.e. when a subject is complex), presenting interacting elements first as isolated elements can decrease intrinsic cognitive load. This might involve breaking down a `for` loop into each individual element of syntax or breaking down a custom ggplot graph into each layer of the plot.
+2. **Split-attention effect**: There is cognitive effort associated with assembling information from different modalities. To minimise cognitive load caused by the split-attention effect, the visual environment in a workshop should be focused on exactly what you are teaching and should mirror, as closely as possible, exactly what you say. This is why, in most situations we do not recommend displaying training curriculum materials to your learners while you teach.  Instead, we ask Instructors to speak commands as they type them on the screen while engaging learners in participatory live coding.
+3. **Worked example**: For learners new to a topic, demonstrating a problem solution can reduce the extraneous cognitive load associated with problem solving. This may take the form of guided practice, where the instructor steps through the problem with the learner, giving feedback at each step before moving on to the next element.
+
+
+A recently added cognitive load effect is the **transient information effect**.  With easy access to search engines and generative AI, information that previously needed to be held in long-term memory can now be looked up easily using technology. Therefore, the information has become transient rather than permanent.  However, having to look up information every time it's needed increases extraneous cognitive load. One of the long-term benefits of learning to code without overly relying on those tools is a decreased extraneous cognitive load due to the transient information effect.
 
 :::::::::::::::::::::::::::::::::::::::::  callout
 
@@ -437,27 +423,19 @@ that does not mean it always works.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-### What to Display
 
-If you have attended SRSG or Carpentries training events before, you may
-have noticed that you have not seen much, or perhaps any of the
-Instructor Training curriculum during your time as a learner in this
-training. In most situations **we do not recommend displaying training
-curriculum materials** to your learners while you teach.
+## Attention is a Limited Resource
 
-The visual environment in a workshop should be focused on exactly what
-you are teaching and should mirror, as closely as possible, exactly what
-you say. This is because keeping track of distracting and contradictory
-sensory information adds to cognitive load.
-The **[split-attention effect][wikipedia-split-attention]** describes the
-cognitive effort involved with trying to assemble information from
-different modalities. Learning is most effective when visual displays,
-text, and auditory information presented together are the same, with
-minimal distractions.
+Memory is not the only cognitive resource that is limited. Attention is
+constrained as well, which can limit the information that enters short
+term memory in the first place as well as interfere with attempts at
+consolidation.
 
-This is why we ask Instructors to **speak commands as they type them on
-the screen** while engaging learners in
-[participatory live coding](17-live).
+While many people believe that they can "multi-task", the reality is that
+attention can only focus on one thing at a time. Adding items that demand
+attention adds more things to alternate between attending to, which can
+reduce efficiency and performance on all of them. In a teaching context, this means anything that pulls a learner's attention away from the task at hand, such as background noise, an unrelated notification, or a poorly laid-out slide, competes directly with their ability to take in and process new material, regardless of how well that material has been designed.
+
 
 [wikipedia-7]: https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two
 [memory-test]: https://miku.github.io/activememory/
