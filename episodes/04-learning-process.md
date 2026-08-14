@@ -368,6 +368,20 @@ memory.
   Focusing on a smaller number of well-connected concepts reduces
   cognitive overload, and tools such as concept maps can help keep
   lessons appropriately scoped.
+
+A related attention issue is that of *self-imposed distraction* on the
+part of the learners. It's not uncommon for learners to attempt to engage
+with their day-to-day work within a workshop, such as dealing with emails
+and messaging colleagues on MS Teams or other platforms, or even writing
+code or documents unrelated to the training. This often has a profound
+effect on a learner's progress, who then may expect other learners,
+helpers or the instructor to catch them up which slows down a workshop.
+This should be discouraged, e.g. requesting that learners close emails,
+set messaging platforms to "do not disturb" mode, mute phone
+notifications, and not opening other browser tabs (and similarly, not
+pasting links into the chat unless necessary). Note that this also
+applies to helpers, who should be attentive to the needs of the learners!
+
   
 ### Cognitive Load
 
