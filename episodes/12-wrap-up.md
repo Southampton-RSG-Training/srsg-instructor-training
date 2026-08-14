@@ -1,7 +1,7 @@
 ---
 title: Wrapping Up
-teaching: 0
-exercises: 10
+teaching: 10
+exercises: 5
 ---
 
 ::::::::::::::::::::::::::::::::::::::: objectives
