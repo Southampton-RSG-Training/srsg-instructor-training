@@ -20,17 +20,28 @@ exercises: 15
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-TODO: needs a systemic rework, particularly with exercises which are useful but too long
+::::::::::::::::::::::::::::::::::::::: instructor
+
+## A Note on Cutting
+
+This episode is a common place for Trainers to cut parts of while
+preparing to teach. That's not because this is not important -- this page
+is a valuable resource -- but we feel this is one of the sections that
+trainees can use effectively as a resource when actually preparing for a
+workshop, even without spending a lot of time doing activities on this
+material during their Instructor Training event.
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Building Teaching Skill
 
 In this training we have discussed many cognitive principles and teaching
-practices that guide the design and implementation of Carpentries
-Workshops. We hope you are feeling excited and optimistic about putting
-those concepts to work! One thing we have emphasised is that **teaching
-is a skill** - and a complex one at that. Whether you are new to teaching
-or skilled in certain methods, adding new features takes time, effort,
-and deliberate practice. In this episode, we will walk through some
+practices that guide the design and implementation of training workshops.
+We hope you are feeling excited and optimistic about putting those
+concepts to work! One thing we have emphasised is that **teaching is a
+skill** - and a complex one at that. Whether you are new to teaching or
+skilled in certain methods, adding new features takes time, effort, and
+deliberate practice. In this episode, we will walk through some
 suggestions about how to prepare yourself for success in the classroom.
 
 As in other sections, we will not discuss technical preparation.
@@ -44,19 +55,6 @@ usually has much more serious consequences for learning and morale. When
 you prepare to teach, we therefore suggest setting aside time *before*
 deeply reviewing your technical content to **plan your approach to
 instruction**.
-
-:::::::::::::::::::::::::::::::::::::::::  instructor
-
-## A Note on Cutting
-
-This episode is a common place for Trainers to cut parts of while
-preparing to teach. That's not because this is not important -- this page
-is a valuable resource -- but we feel this is one of the sections that
-trainees can use effectively as a resource when actually preparing for a
-workshop, even without spending a lot of time doing activities on this
-material during their Instructor Training event.
-
-::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::  callout
 
@@ -72,51 +70,60 @@ a workshop.
 ## Anticipate Your Audience
 
 To teach effectively, you have to know *who* you are teaching. You may
-have a broad idea about the type of audience you expect. You may (we
-hope!) have a plan to learn a few things about your participants after a
-class has begun. However, in thinking about your learners, it is also
+have a broad idea about the type of audience you expect, and it is also
 important to consider them in a broader context and in a way that you are
-not able to fully explore in your classroom. It can be helpful to reserve
-time to think through ways in which learners' experiences and needs may
-be similar to or different from your own, or from each others.
-
-![](fig/instructor-training-program.png){alt='A tree diagram of Carpentries instruction and audience in which Instructor Trainers teach Instructors and Instructors teach Learners' width="80%"}
+not able to fully explore in your classroom.
 
 As you strive to anticipate and understand your audience, it is useful to
 recognise that you will never know everything about the individuals who
-come into your classroom. You will not be informed about their hopes and
-fears beyond what they choose to present. You will never know the full
-spectrum of neurodiversity represented in your workshop. You will not
-know who is going through a rough break-up, who struggles with an abusive
-work environment, who has a sick baby at home, or who skipped breakfast
-to save money that morning. What challenges might affect your imaginary
-person? Thinking deeply about learners as people can help you prepare to
-bring your best self and provide an inclusive environment for everyone.
+come into your classroom, as well as any personal or other issues or
+challenges they may have in their lives.
 
-### Remember Your Pre-Workshop Surveys
+### Use Your Pre-workshop Surveys
 
-The Carpentries strives to create useful assessment instruments that can
-help you plan and understand your workshop. Pre-survey data will likely
-accumulate right up to the start of your workshop. Be sure to check the
-links sent by The Carpentries Workshops and Instruction Team for the most
-up-to-date information about your trainees. If you think our surveys
-could benefit from new or different questions, please let us know!
+The SRSG makes use of pre-workshop surveys to understand the prior
+knowledge and expertise of learners prior to a workshop, which is
+particularly useful to understand the cohort as a whole. Firstly, these
+surveys typically ask questions about:
+
+- The operating system they'll use at the workshop (i.e. Windows, Linux, Mac OS)
+- Career stage:
+  - **Phase 1 - Junior** (e.g. PhD candidate, Junior Research Software Engineer)
+  - **Phase 2 - Early** (e.g. Research Assistant/Associate, first grant holder, Lecturer, Research Software Engineer)
+  - **Phase 3 - Mid / Recognised** (e.g. Senior Lecturer, Reader, Senior Researcher, Senior Research Software Engineer)
+  - **Phase 4 - Established / Experienced / Senior** (e.g. Professor, Director of Research Computing, Distinguished Engineer, Chief Data Scientist)
+- Where they are based (faculty and school/department)
+
+They also ask a number of similarly formatted questions about technical
+ability on the topics covered in the course. This is particularly useful
+to identify areas where the cohort is generally strongest and weakest,
+which may indicate where you might find they're already familiar with the
+material, or where you might encounter challenges. For example for the
+Bash shell, a question could be "Given a directory containing 1000 text
+files, could you write shell/bash commands to list all the files that
+contain a specific word and then save the result to a text file?", with
+the options:
+
+- **Yes - without help:** they can do the task without any assistance or guidance
+- **Yes - with notes from previous learning:** they can do the task whilst referring to notes from either previous self-learning or a training course
+- **No**: they judge themselves incapable of doing the task
+
+This pre-workshop data is also used as a baseline to compare against
+feedback on the same technical ability questions in the post-workshop
+surveys, to determine the extent to which learning took place on the
+covered topics.
+
 
 ## Examine Learning Objectives
 
-All Carpentries lessons should have learning objectives listed at the top
-of each episode. Did you notice these in your lesson? In most cases they
-are quite specific about **what a learner should be able to do** by the
-end of the episode. This is helpful in both designing extra formative
-assessments and in evaluating possible additions or digressions for
-appropriateness.
-
-Carpentries learning ob¡ectives should target novice learners. This
-typically means that the actions specified by the learning objective
-should be basic and uncomplicated. These might include words like
-"recognise," "distinguish," or "use." They typically do not include words
-like "design," "evaluate," or "break down" because these imply more
-complex cognitive actions even where the focal content is the same.
+All our lessons should have learning objectives listed at the top of each
+episode. Learning objectives clearly define what learners should know or
+be able to do by the end of a course, and help to set learner
+expectations. As an instructor it's useful to familiarise yourself with
+the learning objectives before teaching, to help you understand the
+purpose and priorities of the course and focus your teaching on the
+intended outcomes. It's also useful in helping decide what to emphasise
+or omit (in case of timing issues) during a session.
 
 :::::::::::::::::::::::::::::::::::::::  challenge
 
@@ -132,20 +139,12 @@ objective to address the following:
    something more cognitively challenging on the exact same topic (i.e.
    **not** a next step in a workflow). Identify an objective they could
    work towards next.
-1. Suppose a learner struggled to meet the specified objective. What
-   might they be missing? Identify one more fundamental thing a learner
-   needs to be able to do in order to be successful in meeting this
-   objective.
+1. Do you think this learning objective critical to the episode? If you
+   found the course was overrunning, would it be sensible to omit its
+   related material to save time? How would this impact the rest of the
+   course?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
-
-Some answers above may include words like "know" and "understand." Surely
-this is the objective of all teaching! However, these terms are quite
-difficult to use when it comes time to *assess* whether a learner has met
-that objective. They are also quite ambiguous with regard to the *level*
-of understanding to be achieved. Where you encounter these, consider how
-they may be improved by making them specific to an outcome that is
-clearly achievable and readily assessed.
 
 ### Beware the Urge to Complicate
 
@@ -163,6 +162,7 @@ too soon. Awareness of exactly what underlying knowledge is required at
 each step will help you to avoid asking too much. For more guidance on
 identifying the "level" of a particular task, we recommend having a look
 at one of many excellent references on Bloom's Taxonomy.
+
 
 ## Prepare to Use Formative Assessments
 
@@ -184,27 +184,6 @@ in the absence of focused recognition.
 
 Have a look at your learning objective again and identify
 *where* in the episode that objective should reasonably be achieved.
-
-::::::::::::::::::::::::::::::::::::::::::::::::::
-
-Now that you have identified one point where formative assessment may be
-useful, take a moment to consider how it might be used most effectively.
-
-:::::::::::::::::::::::::::::::::::::::  challenge
-
-## Assessment is for Everyone
-
-10 mins.
-
-How might you apply formative assessment to:  
-
-a) verify that that achievement has been met by all and  
-b) make learners aware of their accomplishment?  
-
-Keep in mind that formative assessment can take many forms, including multiple
-choice questions, other exercises, spontaneous questions and calls for sticky
-notes. Write some notes or thoughts about this process in the shared document for
-discussion.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
