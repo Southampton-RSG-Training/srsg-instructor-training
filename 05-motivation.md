@@ -25,8 +25,6 @@ exercises: 15
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-TODO: too long. shorten this episode by about 10 mins of content
-
 ## Motivation Matters
 
 Teaching and learning are not the same process. As we have seen, an
@@ -90,81 +88,15 @@ Another way to think about the graph shown above is **authentic tasks**
 authentic tasks from your own work that could be useful to others, these
 examples will be highly motivating.
 
-This 2x2 grid can be useful for longer term lesson planning and
-development as well as for considering how to answer questions. It's also
-useful when considering where to go next. It wouldn't be a good idea to
-go directly from something that's easy to master and used frequently to
-something that's the absolute opposite: there are graduations in-between,
-with these logically grouped into separate courses. Plus, many of those
-learning the basics may not ever need to know or care much about the more
-advanced, harder to learn topics even if learning them was achievable
-within a single lesson.
-
-:::::::::::::::::::::::::::::::::::::::  challenge
-
-## Authentic Tasks: Think, Pair, Share
-
-5 mins.
-
-**Think** about some task you did this week that uses one or more of the
-skills we teach, (e.g. wrote a function, bulk downloaded data, built a
-plot in R, forked a repo) and explain how you would use it (or a
-simplified version of it) as an exercise or example in class. **Pair** up
-with your neighbor and decide where this exercise fits on a graph of
-"short/long time to master" and "low/high usefulness".
-
-In the shared document, **share** the task and where it fits on the
-graph, using the lettered points in the diagram below. As a group, we
-will discuss how these relate back to our "teach most immediately useful
-first" approach.
-
-```mermaid
-%%{init: {"quadrantChart": {"xAxisPosition": "bottom"}, "themeVariables": {} }}%%
-quadrantChart
-    title When to teach
-    x-axis quick to master --> slow to master
-    y-axis used rarely --> used frequently
-    quadrant-2 Teach this first
-    quadrant-4 Do not bother
-    quadrant-1 Teach later
-    quadrant-3 Offer if needed
-    topic A: [0.2, 0.8]
-    topic B : [0.85, 0.25]
-    topic C: [0.8, 0.8]
-    topic D: [0.2, 0.15]
-accTitle: A quadrant chart, 2x2 grid, with y-axis labeled quick to master --> slow to master and and x-axis labeled  used rarely --> used frequently. The upper left quadrant says "teach this first" and the lower right quadrant says "do not bother"
-```
-
-::::::::::::::::::::::::::::::::::::::::::::::::::
-
-:::::::::::::::::::::::::::::::::::::::::  callout
-
-## Actual Time
-
-Any useful estimate of time must take into account **how frequent
-failures are** and how much time is lost to them. For example, editing a
-text file seems like a quick task, but most graphical editors save things
-to the user's desktop or home directory. If a novice needs to run shell
-commands on the files they've edited, they often fail to navigate to the
-right directory without help.
-
-You will learn to anticipate these sorts of challenges as you chart your
-[expert awareness gaps](04-learning-process.md#mind-the-gap). As a
-result, your skill at estimating time to mastery will improve. If you are
-new to teaching, try to ask an experienced instructor for feedback before
-trying out a new exercise.
-
-::::::::::::::::::::::::::::::::::::::::::::::::::
-
-While we aim to begin workshops with motivating content, in practice this
-does not always occur. Workflow-based content like that taught in Data
-Carpentry workshops may start at the beginning of the workflow, for
-example. Even when a 'motivating example' is built in to the start of a
-workshop, technical problems like software installation can turn those
-precious first minutes into an experience of frustration and impatience.
-That is ok! What is important is to **be mindful of times when your
-content is not motivating**, and to strategise ways to re-engage learners
-(and yourself) using some of the other techniques in this section.
+While we aim to begin workshops with motivating content that's quick to
+learn, in practice this does not always occur. Workflow-based content
+like that taught in Data Carpentry workshops may start at the beginning
+of the workflow, for example. Even when a 'motivating example' is built
+in to the start of a workshop, technical problems like software
+installation can turn those precious first minutes into an experience of
+frustration and impatience. However, resolving these issues is a
+necessary step in the process, and for some cohorts, this will take
+naturally longer.
 
 
 ## How Can You Affect Motivation?
