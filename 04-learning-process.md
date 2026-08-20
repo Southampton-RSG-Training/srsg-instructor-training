@@ -13,7 +13,6 @@ exercises: 15
 - Demonstrate strategies for avoiding dismissive language.
 - Remember the quantitative limit of human memory.
 - Distinguish desirable from undesirable cognitive load.
-- Evaluate cognitive load associated with a learning task.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -22,7 +21,6 @@ exercises: 15
 - Does subject expertise make someone a great teacher?
 - How are we (as Instructors) different from our learners and how does this impact our teaching?
 - What is cognitive load and how does it affect learning?
-- How can we design instruction to work with, rather than against, memory constraints?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 

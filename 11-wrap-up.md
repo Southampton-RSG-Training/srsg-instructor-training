@@ -28,10 +28,7 @@ TODO: - Link to survey
 :::::::::::::::::::::::::::::::::::::::  challenge
   
 Just as in our technical workshops, we collect feedback at the end of
-Instructor Training. This will help your Trainers continue to develop
-*their* skills and to participate in continually improving our
-curriculum. The Carpentries Surveys also provide vital information to The
-Carpentries Core Team and help us to report to our funders.
+Instructor Training. This will help us continually improve this training.
 
 ## One Up, One Down
 
@@ -53,18 +50,11 @@ Provide one up, one down feedback on the entire Instructor Training course. Reme
 5 mins.
 
 Assessment is very important to us! Please take the remaining time to
-complete this about 5-minute post-training survey (your Trainers will
-provide the link).
+complete the post-training survey (your Trainers will provide the link).
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Thank You!
-
-Thank you for sharing your time with us! The Carpentries Instructor
-Training is, like so many things we do, a community-created experience.
-Your contributions and efforts in participating in this course have made
-a difference already! We hope it has been valuable and enjoyable for you,
-and we look forward to having you as Carpentries Instructors!
 
 
 :::::::::::::::::::::::::::::::::::::::: keypoints

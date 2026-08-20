@@ -17,8 +17,8 @@ exercises: 40
 - Why do we teach using participatory live coding?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
-  
-One of the cornerstones of The Carpentries teaching is live coding:
+
+One of the cornerstones of Carpentries-style teaching is live coding:
 *instructors do not use slides to teach coding*, but work through the
 lesson material, typing in the code or instructions, with the workshop
 participants following along. This section explains how it works, why we
@@ -175,10 +175,10 @@ made.
    teaching.  It helps learners understand the material, makes for a more
    lively workshop and gathers the learners' attention to you as well.
 6. **Turn off notifications** on your laptop and phone.
-7. **Stick to the lesson material.** The core Carpentries lessons are
-  developed collaboratively by many instructors and tried and tested at
-  many workshops.  This means they are very streamlined - which is great
-  when you start teaching them for the first time.  It may be tempting to
+7. **Stick to the lesson material.** The core lessons are developed
+  collaboratively by many instructors and tried and tested at many
+  workshops.  This means they are very streamlined - which is great when
+  you start teaching them for the first time.  It may be tempting to
   deviate from the material because you would like to show a neat trick,
   or demonstrate some alternative way of doing something.  Do not do
   this, since there is a fair chance you will run into something
@@ -188,15 +188,15 @@ made.
   teaching and test the effect of your modification. Some instructors use
   printouts of the lesson material during teaching. Others use a second
   device (tablet or laptop) when teaching, on which they can view their
-  notes and the shared document session.  This seems to be more reliable than
-  displaying one virtual desktop while flipping back and forth to
+  notes and the shared document session.  This seems to be more reliable
+  than displaying one virtual desktop while flipping back and forth to
   another.
 8. **Leave no learner behind.** You will learn later in the training [how
    sticky notes can be used to gauge learners' progress and
-   understanding](21-management.md#sticky-notes).
+   understanding](10-management.md#sticky-notes).
 9. **Embrace mistakes.** No matter how well prepared you are, you will
    make mistakes. This is OK! Use these opportunities to do [error
-   framing](08-motivation.md) and to help your learners learn the art of
+   framing](05-motivation.md) and to help your learners learn the art of
    troubleshooting.
 10. **Have fun!** It is OK to use humor and improvisation to liven up the
     workshop. This becomes easier when you are more familiar with the
@@ -229,13 +229,22 @@ Read more in [Ten quick tips for teaching with participatory live-coding][live-c
 
 ::::::::::::::::::::::::::::::::::::::: instructor
 
-On Zoom, Remember to send broadcast messages to remind trainees to switch
-roles, sample language is below:
+In an online workshop, remember to send broadcast messages to remind
+trainees to switch roles, sample language is below:
 
 - at 9 min in (16 left): `The second person should start teaching now`
 - at 17 min in (8 left): `The third person should start teaching now`
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+## Further Resources
+
+There is also a supplementary episode in the material on 
+[Preparing to Teach](../learners/preparing-to-teach.md), which covers a
+lot of useful general advice on preparing for a workshop. Including this
+material is beyond the scope of this workshop, but it's recommended that
+you review this prior to delivering a workshop.
 
 
 [live-coding-bad]: https://youtu.be/bXxBeNkKmJE

@@ -7,7 +7,6 @@ exercises: 15
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 
-- Create a profile for a learner in your workshop.
 - Critically analyze a learning objective for your workshop.
 - Identify checkpoints in a lesson for formative assessment.
 
@@ -25,8 +24,10 @@ exercises: 15
 ## A Note on Cutting
 
 This episode is a common place for Trainers to cut parts of while
-preparing to teach. That's not because this is not important -- this page
-is a valuable resource -- but we feel this is one of the sections that
+preparing to teach (for this purpose it's also linked to from the [intro
+to live coding episode](07-live-coding.md) so it's always still
+mentioned). That's not because this is not important -- this page is a
+valuable resource -- but we feel this is one of the sections that
 trainees can use effectively as a resource when actually preparing for a
 workshop, even without spending a lot of time doing activities on this
 material during their Instructor Training event.
@@ -83,35 +84,9 @@ challenges they may have in their lives.
 
 The SRSG makes use of pre-workshop surveys to understand the prior
 knowledge and expertise of learners prior to a workshop, which is
-particularly useful to understand the cohort as a whole. Firstly, these
-surveys typically ask questions about:
+particularly useful to understand the cohort as a whole.
 
-- The operating system they'll use at the workshop (i.e. Windows, Linux, Mac OS)
-- Career stage:
-  - **Phase 1 - Junior** (e.g. PhD candidate, Junior Research Software Engineer)
-  - **Phase 2 - Early** (e.g. Research Assistant/Associate, first grant holder, Lecturer, Research Software Engineer)
-  - **Phase 3 - Mid / Recognised** (e.g. Senior Lecturer, Reader, Senior Researcher, Senior Research Software Engineer)
-  - **Phase 4 - Established / Experienced / Senior** (e.g. Professor, Director of Research Computing, Distinguished Engineer, Chief Data Scientist)
-- Where they are based (faculty and school/department)
-
-They also ask a number of similarly formatted questions about technical
-ability on the topics covered in the course. This is particularly useful
-to identify areas where the cohort is generally strongest and weakest,
-which may indicate where you might find they're already familiar with the
-material, or where you might encounter challenges. For example for the
-Bash shell, a question could be "Given a directory containing 1000 text
-files, could you write shell/bash commands to list all the files that
-contain a specific word and then save the result to a text file?", with
-the options:
-
-- **Yes - without help:** they can do the task without any assistance or guidance
-- **Yes - with notes from previous learning:** they can do the task whilst referring to notes from either previous self-learning or a training course
-- **No**: they judge themselves incapable of doing the task
-
-This pre-workshop data is also used as a baseline to compare against
-feedback on the same technical ability questions in the post-workshop
-surveys, to determine the extent to which learning took place on the
-covered topics.
+See the section on pre-workshop surveys in the []
 
 
 ## Examine Learning Objectives
@@ -131,9 +106,8 @@ or omit (in case of timing issues) during a session.
 
 10 mins.
 
-Select one learning objective from the episode you've used for teaching
-practice. Copy it into the shared document then add numbers below your
-objective to address the following:
+Select one learning objective from an episode in the lesson you'll use
+for teaching (or teaching practice, if within a workshop):
 
 1. Suppose a learner had mastered this objective, and wanted to try
    something more cognitively challenging on the exact same topic (i.e.
@@ -182,8 +156,8 @@ in the absence of focused recognition.
 
 5 mins.
 
-Have a look at your learning objective again and identify
-*where* in the episode that objective should reasonably be achieved.
+Have a look at your learning objective again and identify *where* in the
+episode that objective should reasonably be achieved.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -264,12 +238,11 @@ other feedback that you received during a workshop? We certainly
 recommend taking time to do this after a workshop, while your memories
 are still fresh. However, we *also* recommend having a look again
 **before you teach your next workshop**. This will help refresh your
-memory of all that went well (yay!) as well as challenges you faced and
-learners who struggled at certain points. What will you keep the same,
-and what will you do differently? Just a few moments of reflective
-practice with prior feedback will go a long way towards building your
-skill as a teacher and making each workshop you teach better than the
-last.
+memory of all that went well as well as challenges you faced and learners
+who struggled at certain points. What will you keep the same, and what
+will you do differently? Just a few moments of reflective practice with
+prior feedback will go a long way towards building your skill as a
+teacher and making each workshop you teach better than the last.
 
 
 [Dunning]: https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect

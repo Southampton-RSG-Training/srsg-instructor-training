@@ -7,9 +7,9 @@ exercises: 15
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 
-- Identify potential challenges of teaching learners with very different backgrounds and skill levels.
+- Identify training workshop roles and responsibilities.
+- Summarise the practices typically used at a SRSG training workshop.
 - Locate resources to direct your response if someone at your workshop violates the Code of Conduct.
-- Identify workshop roles and responsibilities for your team.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -64,7 +64,9 @@ These include:
 
 ### Starting with the Code of Conduct
 
-TODO: add link to SRSG CoC 
+A workshop should always start with a brief introduction to the SRSG Code
+of Conduct (as we did with this Instructor Training workshop - see the
+[Welcome episode](01-welcome.md)'s section on the Code of Conduct).
 
 ### Participatory Instruction \& Hands-off Help
 
@@ -72,6 +74,37 @@ Whether you are teaching via live coding or live demonstration, your
 learners should be actively working along with you wherever possible.
 Similarly, when receiving assistance, learners should be doing the typing
 whenever possible.
+
+### Review Learner Responses to the Pre-workshop Survey
+
+Firstly, these surveys typically ask questions about:
+
+- The operating system they'll use at the workshop (i.e. Windows, Linux, Mac OS)
+- Career stage:
+  - **Phase 1 - Junior** (e.g. PhD candidate, Junior Research Software Engineer)
+  - **Phase 2 - Early** (e.g. Research Assistant/Associate, first grant holder, Lecturer, Research Software Engineer)
+  - **Phase 3 - Mid / Recognised** (e.g. Senior Lecturer, Reader, Senior Researcher, Senior Research Software Engineer)
+  - **Phase 4 - Established / Experienced / Senior** (e.g. Professor, Director of Research Computing, Distinguished Engineer, Chief Data Scientist)
+- Where they are based (faculty and school/department)
+
+They also ask a number of similarly formatted questions about technical
+ability on the topics covered in the course. This is particularly useful
+to identify areas where the cohort is generally strongest and weakest,
+which may indicate where you might find they're already familiar with the
+material, or where you might encounter challenges. For example for the
+Bash shell, a question could be "Given a directory containing 1000 text
+files, could you write shell/bash commands to list all the files that
+contain a specific word and then save the result to a text file?", with
+the options:
+
+- **Yes - without help:** they can do the task without any assistance or guidance
+- **Yes - with notes from previous learning:** they can do the task whilst referring to notes from either previous self-learning or a training course
+- **No**: they judge themselves incapable of doing the task
+
+This pre-workshop data is also used as a baseline to compare against
+feedback on the same technical ability questions in the post-workshop
+surveys, to determine the extent to which learning took place on the
+covered topics.
 
 ### Learners Use Their Own Machines
 
@@ -158,9 +191,8 @@ Instructors have generated to deal with this issue:
 
 - During class, **encourage learners to help others** nearby when they
   feel comfortable doing so. Teaching is a great way to level up learning
-  (one of many reasons why Carpentries Instructors choose to teach!).
-  Note that you will need an icebreaker before most learners will take
-  this advice.
+  (one of many reasons why Instructors choose to teach!). Note that you
+  will need an icebreaker before most learners will take this advice.
 - **Do not let advanced learners take over the conversation** during
   class, no matter how interesting it may be. This can alienate novices
   and consumes precious time. Advanced questions and comments can be
@@ -181,7 +213,7 @@ they *can* learn these skills because they have successfully walked
 through them. Advanced learners may enjoy picking up "tips and tricks" or
 having their own self-taught approaches validated. They may also enjoy
 connecting with your workshop community, and might consider becoming
-Carpentries Instructors themselves!
+Instructors themselves.
 
 Dealing effectively with different skill levels does take some planning.
 However, with appropriate advertising and team cohesion on priorities and
@@ -215,8 +247,7 @@ team in advance**.
 
 5 mins.
 
-1. Take 5 minutes to read through the SRSG Event Code of Conduct Incident Response Guidelines.  TODO: Develop these guidelines based on: https://docs.carpentries.org/policies/coc/incident-response.html)
-
+1. Take 5 minutes to read through the [SRSG Event Code of Conduct][srsg-coc].
 
 2. Write any questions you have in the shared document for the trainer to
    answer.
@@ -239,8 +270,7 @@ As instructors, you should make sure you allow at least 5 minutes for the learne
 
 
 [helpers]: https://docs.carpentries.org/resources/workshops/checklists.html#helper-checklist
-[CoC-summary]: https://docs.carpentries.org/policies/coc/#code-of-conduct-summary-view
-
+[srsg-coc]: https://docs.google.com/document/d/19orFA18unJAFJQx9WxudzTHKyiRO6boOvwUmYA4lo_E/edit
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
