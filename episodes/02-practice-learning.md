@@ -7,19 +7,18 @@ exercises: 5
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 
--   Compare and contrast the three stages of skill acquisition.
--   Identify a mental model and an analogy that can help to explain it.
--   Understand the limitations of knowledge in the absence of a
-    functional mental model.
--   Appreciate the value in a slow pace of delivery.
+- Compare and contrast the three stages of skill acquisition.
+- Identify a mental model and an analogy that can help to explain it.
+- Understand the limitations of knowledge in the absence of a functional mental model.
+- Appreciate the value in a slow pace of delivery.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::: questions
 
--   How do people learn?
--   Who is a typical learner?
--   How can we help novices become competent practitioners?
+- How do people learn?
+- Who is a typical learner?
+- How can we help novices become competent practitioners?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -75,7 +74,7 @@ simplified form, three stages of this model are:
     may ask questions that seem irrelevant or off-topic as they rely on
     prior knowledge, without knowing what is or is not related yet.
 
-    > Example: A *novice* learner in a Carpentries-style workshop might never have heard of the bash shell, and therefore may have no understanding of how it relates to their file system or other programs on their computer.
+    > Example: A *novice* learner in a workshop might never have heard of the bash shell, and therefore may have no understanding of how it relates to their file system or other programs on their computer.
 
 -   *Competent practitioner*: someone who has enough understanding for
     everyday purposes. They will not know all the details of how
@@ -83,11 +82,11 @@ simplified form, three stages of this model are:
     accurate, but it is sufficient for completing normal tasks with
     normal effort under normal circumstances.
 
-    > Example: A *competent practitioner* in a Carpentries-style workshop might have used the shell before and understand how to move around directories and use individual programs, but they might not understand how they can fit these programs together to build scripts and automate large tasks.
+    > Example: A *competent practitioner* in a workshop might have used the shell before and understand how to move around directories and use individual programs, but they might not understand how they can fit these programs together to build scripts and automate large tasks.
 
 -   *Expert*: someone who can easily handle situations that are out of the ordinary.
 
-    > Example: An *expert* in a Carpentries-style workshop may have experience writing and running shell scripts and, when presented with a problem, immediately sees how these skills can be used to solve the problem.
+    > Example: An *expert* in a workshop may have experience writing and running shell scripts and, when presented with a problem, immediately sees how these skills can be used to solve the problem.
 
 Note that how a person *feels* about their skill level is not included
 in these definitions! You may or may not consider yourself an expert in
@@ -95,7 +94,7 @@ a particular subject, but may nonetheless function at that level in
 certain contexts. We will come back to the expertise of the Instructor
 and its impact -- positive and negative -- on teaching, in the next
 episode. For now, we are primarily concerned with novices, as this is
-The Carpentries' primary target audience.
+the majority target audience of our training workshops.
 
 It is common to think of a novice as a sort of an "empty vessel" into
 which knowledge can be "poured." Unfortunately, this analogy includes
@@ -209,9 +208,9 @@ planet's climate". "I am not a computational person" may, arguably, also
 fall into this category of misconception.
 
 The middle category of misconceptions is the most useful type to watch
-out for in Carpentries-style workshops. While teaching, we want to expose
-learners' broken models so that we can help them begin to deconstruct
-them and build better ones in their place.
+out for in workshops. While teaching, we want to expose learners' broken
+models so that we can help them begin to deconstruct them and build
+better ones in their place.
 
 ::: callout
 
@@ -255,14 +254,14 @@ fit those facts into. In fact, **presenting too many facts too soon can
 actually reinforce an incorrect mental model**. (This is a key problem
 with the "empty vessel" analogy described earlier.)
 
-Most learners coming to Carpentries-style lessons are novices, and do not have
-a strong mental model of the concepts we are teaching. Thus, our primary
-goal is **not** to teach the syntax of a particular programming
-language, but **to help them construct a working mental model** so that
-they have something to attach facts to. In other words, our goal is to
-teach people **how to think** about programming and data management in a
-way that will allow them to learn more easily on their own or understand
-what they might find online.
+Most learners coming to SRSG workshops are novices, and do not have a
+strong mental model of the concepts we are teaching. Thus, our primary
+goal is **not** to teach the syntax of a particular programming language,
+but **to help them construct a working mental model** so that they have
+something to attach facts to. In other words, our goal is to teach people
+**how to think** about programming and data management in a way that will
+allow them to learn more easily on their own or understand what they
+might find online.
 
 ::: testimonial
 If someone feels it is too slow, they will be a bit bored. If they feel
@@ -308,14 +307,14 @@ ideas.
 
 ## Meeting Learners Where They Are
 
-One of the strengths of Carpentries-style workshops is that we meet
-learners *where they are*. Instructors strive to help learners progress
-from whatever starting point they happen to be at, without making anyone
-feel inferior about their current practices or skillsets. We do this in
-part by teaching relevant and useful skills, building an inclusive
-learning environment, and continually getting (and paying attention to!)
-feedback from learners. We will be talking in more depth about each of
-these strategies as we go forward in our workshop.
+One of the goals of our workshops is to meet learners *where they are*.
+Instructors strive to help learners progress from whatever starting point
+they happen to be at, without making anyone feel inferior about their
+current practices or skillsets. We do this in part by teaching relevant
+and useful skills, building an inclusive learning environment, and
+continually getting (and paying attention to!) feedback from learners. We
+will be talking in more depth about each of these strategies as we go
+forward in our workshop.
 
 :::
 

@@ -14,7 +14,6 @@ exercises: 15
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 
-- Identify common ground with some of your fellow participants.
 - Understand the origins of the SRSG training approach and content.
 - Predict what will and will not be covered in this training.
 - Know where to find SRSG training Code of Conduct and how to report an incident.
@@ -92,10 +91,8 @@ participate by writing your answers in the shared document.
 
 ## Code of Conduct
 
-TODO: develop and publish a Code of Conduct and Code of Conduct report form and reference it this section (and elsewhere in the material)
-
 To make clear what is expected, everyone participating in our training
-activities - including this one - is required to abide by our [Code of Conduct][coc]. 
+activities - including this one - is required to abide by our [Code of Conduct][srsg-coc]. 
 Any form of behaviour to exclude, intimidate, or cause discomfort is a
 violation of the Code of Conduct. In order to foster a positive and
 professional learning environment we encourage you to:
@@ -107,7 +104,9 @@ professional learning environment we encourage you to:
 - Show courtesy and respect towards other community members
 
 If you believe someone is violating the Code of Conduct, we ask that you
-report it to the SRSG training team by completing [this form][form-coc].
+report it to the SRSG training team by getting in touch via private
+message in MS Teams or as an email (see the [Code of Conduct][srsg-coc]
+for more information).
 
 ## Introductions
 
@@ -123,40 +122,16 @@ themselves.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Now, we would like to get to know all of you.
-
 :::::::::::::::::::::::::::::::::::::::  challenge
 
-## Reviewing Training Workshop Experience and Goals
+## Reviewing Training Workshop Experience
 
-10 mins.
+5 mins.
 
-For the multiple choice questions below, please place an "X" next to the response(s) that best apply to you.
+An important part of any training workshop is to get to know your learners,
+and this one is no different!
 
-**Have you ever participated in an SRSG workshop, Software Carpentry, Data Carpentry, or Library Carpentry Workshop?**
-
-1. Yes, I have taken a workshop.
-2. Yes, I have been a workshop helper.
-3. Yes, I organised a workshop.
-4. No, but I am familiar with what is taught at a workshop.
-5. No, and I am not familiar with what is taught at a workshop.
-
-
-**Which of these most accurately describes your teaching experience?**
-
-1. I have been a graduate or undergraduate teaching assistant for a university/college course.
-2. I have not had any teaching experience in the past.
-3. I have taught a seminar, workshop, or other short or informal course.
-4. I have been the primary or responsible teacher for a university/college course.
-5. I have taught at the primary or secondary education level.
-6. I have taught informally through outreach programs, hackathons, libraries, laboratory demonstrations, and similar activities.
-
-
-**Why are you taking this course? What goals do you have for this training?**
-
-Add a short response into the shared document.
-
-This exercise should take about 5 minutes for responses, with an optional 5 for additional discussion as time permits.
+Take a few minutes to fill in the [Instructor Training pre-workshop survey][it-pre-survey].
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -252,10 +227,8 @@ practice in general and in teaching SRSG workshops specifically.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-[coc]: https://docs.carpentries.org/policies/coc/
-[form-coc]: https://goo.gl/forms/KoUfO53Za3apOuOK2
-[lesson-dev-web]: https://carpentries.org/involved-lessons/
-[cldt]: https://carpentries.github.io/lesson-development-training/index.html
+[srsg-coc]: https://docs.google.com/document/d/19orFA18unJAFJQx9WxudzTHKyiRO6boOvwUmYA4lo_E/edit
+[it-pre-survey]: https://forms.cloud.microsoft/e/rkW0FSq2Cj
 
 
 

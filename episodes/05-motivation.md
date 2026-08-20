@@ -11,7 +11,7 @@ exercises: 15
 - Develop strategies to avoid demotivating learners.
 - Distinguish praise based feedback on the type of mindset it promotes.
 - Recognise systemic factors that can distract and demotivate learners.
-- Understand the role of The Carpentries Code of Conduct in maintaining an explicitly inclusive environment.
+- Understand the role of the SRSG Code of Conduct in maintaining an explicitly inclusive environment.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -36,14 +36,13 @@ It can be tempting, especially for teachers facing burnout after
 strenuous and ineffectual effort, to blame learners for spoiling the
 classroom experience.
 
-No two-day workshop can truly bring a total novice to the level of a
-competent practitioner. Carpentries-style workshops function in a context
-of *self training*, in which workshops offer vital tools and a map for
-learners to proceed on their own. Our workshops lower the barrier to
-entry and help learners to get off on the right foot. In this context,
-**cultivating motivation to continue learning, and to carefully pursue
-best-practices in doing so, is arguably the most important outcome we can
-achieve**.
+No one- or two-day workshop can truly bring a total novice to the level
+of a competent practitioner. Our workshops function in a context of *self
+training*, in which workshops offer vital tools and a map for learners to
+proceed on their own. Our workshops lower the barrier to entry and help
+learners to get off on the right foot. In this context, **cultivating
+motivation to continue learning, and to carefully pursue best-practices
+in doing so, is arguably the most important outcome we can achieve**.
 
 This section discusses several ways that learners can be motivated (or
 demotivated!) by instructional content and approaches, and provides
@@ -198,7 +197,7 @@ you would respond.
   have confidence in our qualifications, but it is easy to take this too
   far. Presenting yourself as a learner offers a relatable model,
   fostering a growth mindset and teaching a positive approach to the
-  continuing challenge of learning. Using [participatory liv coding](17-live),
+  continuing challenge of learning. Using [participatory liv coding](07-live-coding),
   our chosen method for teaching concepts, is very useful for this
   reason. It is common to make errors while coding. Embrace these with
   enthusiasm! Leveraging your own mistakes as opportunities can turn an
@@ -324,8 +323,8 @@ What we have not discussed yet is strategies to motivate the
   Deliberative practice, seeking feedback, and reflecting on mistakes in
   the context of your own busy work life is a challenge. What will keep
   you energized to stay engaged with your learning process?
-- **Carpentries Instructors teach because they want to.** Whether you are
-  truly volunteering your time or are fulfilling a role in a job you have
+- **Instructors teach because they want to.** Whether you are truly
+  volunteering your time or are fulfilling a role in a job you have
   chosen, teaching is something you came here motivated to do. Teaching
   can be an incredibly gratifying activity! Finding and preserving your
   own motivation through the many challenges ahead will make your journey

@@ -28,10 +28,7 @@ TODO: - Link to survey
 :::::::::::::::::::::::::::::::::::::::  challenge
   
 Just as in our technical workshops, we collect feedback at the end of
-Instructor Training. This will help your Trainers continue to develop
-*their* skills and to participate in continually improving our
-curriculum. The Carpentries Surveys also provide vital information to The
-Carpentries Core Team and help us to report to our funders.
+Instructor Training. This will help us continually improve this training.
 
 ## One Up, One Down
 

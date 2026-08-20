@@ -67,13 +67,13 @@ episodes:
 - 06-lunch.md
 - 07-live-coding.md
 - 08-break.md
-- 09-preparation.md
-- 10-performance.md
-- 11-management.md
-- 12-wrap-up.md
+- 09-performance.md
+- 10-management.md
+- 11-wrap-up.md
 
 # Information for Learners
-learners: 
+learners:
+- preparing-to-teach.md
 #- training_info.md
 #- training_calendar.md
 #- checkout.md
