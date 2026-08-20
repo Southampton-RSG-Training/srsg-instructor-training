@@ -217,7 +217,6 @@ team in advance**.
 
 1. Take 5 minutes to read through the SRSG Event Code of Conduct Incident Response Guidelines.  TODO: Develop these guidelines based on: https://docs.carpentries.org/policies/coc/incident-response.html)
 
-
 2. Write any questions you have in the shared document for the trainer to
    answer.
 

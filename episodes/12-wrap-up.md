@@ -53,18 +53,11 @@ Provide one up, one down feedback on the entire Instructor Training course. Reme
 5 mins.
 
 Assessment is very important to us! Please take the remaining time to
-complete this about 5-minute post-training survey (your Trainers will
-provide the link).
+complete the post-training survey (your Trainers will provide the link).
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Thank You!
-
-Thank you for sharing your time with us! The Carpentries Instructor
-Training is, like so many things we do, a community-created experience.
-Your contributions and efforts in participating in this course have made
-a difference already! We hope it has been valuable and enjoyable for you,
-and we look forward to having you as Carpentries Instructors!
 
 
 :::::::::::::::::::::::::::::::::::::::: keypoints

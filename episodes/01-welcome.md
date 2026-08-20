@@ -22,8 +22,6 @@ exercises: 15
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-TODO: update this section
-
 :::::::::::::::::::::::::::::::::::::::instructor
 
 In an online training, ensure that captions are turned on, that one
@@ -113,8 +111,8 @@ report it to the SRSG training team by completing [this form][form-coc].
 
 ## Introductions
 
-Hello everyone, and welcome to The Carpentries
-instructor training.  We are very pleased to have you with us.
+Hello everyone, and welcome to the SRSG Instructor Training
+We are very pleased to have you with us.
 
 ::::::::::::::::::::::::::::::::::::::  discussion
 
@@ -129,12 +127,11 @@ Now, we would like to get to know all of you.
 
 :::::::::::::::::::::::::::::::::::::::  challenge
 
-## Reviewing The Carpentries Experience and Goals
+## Reviewing Training Workshop Experience and Goals
 
 10 mins.
 
-For the multiple choice questions below, please place an "X" next to the response(s) that best apply to you. Then find yourself a spot
-in the shared document below to write a short response to the last question.
+For the multiple choice questions below, please place an "X" next to the response(s) that best apply to you.
 
 **Have you ever participated in an SRSG workshop, Software Carpentry, Data Carpentry, or Library Carpentry Workshop?**
 
@@ -156,6 +153,8 @@ in the shared document below to write a short response to the last question.
 
 
 **Why are you taking this course? What goals do you have for this training?**
+
+Add a short response into the shared document.
 
 This exercise should take about 5 minutes for responses, with an optional 5 for additional discussion as time permits.
 
