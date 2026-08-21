@@ -1,0 +1,234 @@
+---
+title: Welcome
+start: yes
+teaching: 15
+exercises: 15
+---
+
+:::::::::::::::::::::::::::::::::::::::: questions
+
+- How does the SRSG approach teaching?
+- What should you expect from this training?
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::: objectives
+
+- Understand the origins of the SRSG training approach and content.
+- Predict what will and will not be covered in this training.
+- Know where to find SRSG training Code of Conduct and how to report an incident.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+:::::::::::::::::::::::::::::::::::::::instructor
+
+In an online training, ensure that captions are turned on, that one
+trainer claims host, and that the host adds other trainers as co-hosts. 
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+## Before The Course Begins
+
+:::::::::::::::::::::::::::::::::::::::  instructor
+
+## Getting to know each other: an Icebreaker
+
+There are multiple ways to build a sense of community early in an
+instructor training event and help ensure participants engage fully with
+one another.
+
+![A different kind of "icebreaker." Photo credit: Grand-Duc, Wikipedia, [http://en.wikipedia.org/wiki/User:Grand-Duc](https://en.wikipedia.org/wiki/User:Grand-Duc)](fig/Icebreaker_Stephan_Jantzen_in_Stadthafen_Rostock_2010-12-28_perspective_correction-GD.jpg){alt='Photo of an Icebreaker ship, named Stephan Jantzen' width="600px" }
+
+Some example activities are:
+
+- Include an explicit [icebreaker question](icebreakers.md) in the sign-in section or separately on the shared document
+- Invite participants to share their names (and optionally pronouns - see below) verbally and/or share their icebreaker answers
+- Model informal chat as participants come into the room on Day 1, particularly if a number of participants are early or late
+
+Hearing participants say their own names is especially valuable in online
+workshops with diverse participants whose names may be difficult for some
+trainers and instructor trainees to pronounce.
+
+When planning icebreakers and introductions, it's important to be aware
+of time considerations, given the number of participants and expected
+timing. Balancing what is done in the shared document and verbally can
+help, as can avoiding activities that are likely to encourage longer
+introductions or extended interaction at this point.
+
+::::: spoiler
+
+### Further Reading on Pronouns
+
+Note that pronouns are personal and some participants might prefer not to
+share them. Do not force people to share their pronouns. One reason to
+avoid pressuring people to share them is to allow people to share their
+gender identity only when they feel ready to. It is, however, necessary
+for all participants to use pronouns and names as listed when
+participants provide them.
+
+The resources below can provide additional guidance on respectful pronoun
+usage:
+
+- The proper use of pronouns in language: [https://lgbt.ucsf.edu/pronounsmatter](https://lgbt.ucsf.edu/pronounsmatter)
+- The importance of using pronouns: [https://www.pronouns.org/](https://www.pronouns.org/)
+- How to use personal pronouns: [https://www.pronouns.org/how](https://www.pronouns.org/how)
+- How to deal with situations when you use the wrong pronoun: [https://www.pronouns.org/mistakes](https://www.pronouns.org/mistakes)
+
+:::::
+
+:::::::::::::::::::::::::::::::::::::::  
+
+:::::::::::::::::::::::::::::::::::::::  challenge
+
+## Getting to know each other
+
+If the Trainer has chosen an [icebreaker question](icebreakers.md),
+participate by writing your answers in the shared document. 
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Code of Conduct
+
+To make clear what is expected, everyone participating in our training
+activities - including this one - is required to abide by our [Code of Conduct][srsg-coc]. 
+Any form of behaviour to exclude, intimidate, or cause discomfort is a
+violation of the Code of Conduct. In order to foster a positive and
+professional learning environment we encourage you to:
+
+- Use welcoming and inclusive language
+- Be respectful of different viewpoints and experiences
+- Gracefully accept constructive criticism
+- Focus on what is best for the community
+- Show courtesy and respect towards other community members
+
+If you believe someone is violating the Code of Conduct, we ask that you
+report it to the SRSG training team by getting in touch via private
+message in MS Teams or as an email (see the [Code of Conduct][srsg-coc]
+for more information).
+
+## Introductions
+
+Hello everyone, and welcome to the SRSG Instructor Training
+We are very pleased to have you with us.
+
+::::::::::::::::::::::::::::::::::::::  discussion
+
+## This Event's Trainers
+
+To begin class, each Trainer should give a brief introduction of
+themselves.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::  challenge
+
+## Reviewing Training Workshop Experience
+
+5 mins.
+
+An important part of any training workshop is to get to know your learners,
+and this one is no different!
+
+Take a few minutes to fill in the [Instructor Training pre-workshop survey][it-pre-survey].
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## A Brief Overview of The Carpentries
+
+![](fig/Scene_1_blue_stickies_labeled.jpeg){alt='Image of action figures in a workshop with Instructor, Co-Instructor, helper, and Sticky Notes labeled' width="900px" }
+
+Many of our training courses have much direct content - and teaching
+style - adopted from The Carpentries. The Carpentries is an organisation
+that created Software Carpentry, Data Carpentry, and Library Carpentry,
+which are official Lesson Programmes of The Carpentries.
+
+The Carpentries is a **global community of volunteer researchers,
+educators, and others** oriented around improving basic computing and
+data skills for researchers through intensive, short-format workshops.
+
+- Software Carpentry focuses on helping researchers develop foundational computational skills
+- Data Carpentry focuses on helping researchers work effectively with their data through its lifecycle
+- Library Carpentry focuses on teaching data skills to people working in library- and information-related roles.
+
+The main goal of The Carpentries is not to teach specific skills, per se
+- although those are covered - but rather, to convey best practices that
+will enable researchers to be more productive and do better research.
+
+The SRSG originally adopted and delivered the Software Carpentry course
+material back in 2015, and has since adopted and adapted many other
+Carpentries courses for other training events. In more recent years the
+SRSG has developed and delivered many of its own training courses across
+a wide variety of subjects, maintaining the overall Carpentries approach
+and techniques for its own workshops.
+
+## Instructor Training Overview
+
+The goal of this training is to provide you with helpful skills and
+information for instructing at an SRSG training workshop.
+
+TODO: revise these overall objectives
+
+- be familiar with and understand **how to apply research-based teaching principles**, especially as they apply to typical academic audiences.
+- understand the **importance of a respectful and inclusive classroom environment**; commit to creating such an environment; and be able to identify and implement the SRSG policies and general practices to accomplish this.
+- **practice and develop skills** in the teaching methods used in our training workshops.
+- **know where to go for help**, how to start organizing a workshop, and how to get involved with other training-related SRSG activities.
+
+These four goals are broken down into these main themes of content:
+
+- **How Learning Works**: one of our main emphases will be discussing the
+**best practices** of teaching. We will be introducing you to a handful
+of key educational research findings and demonstrating how they can be
+used to help people learn better and faster.
+
+- **Building Teaching Skill**: just like learning a new language, a
+musical instrument, or a sport, teaching is a skill that requires
+practice and feedback. There will be opportunities to practice being an
+instructor in the second half of this training.
+
+- **How to Run an SRSG Training Workshop**: we'll cover how we run
+workshops and our organisational procedures.
+
+## What We Leave Out
+
+We will **not** be going over our lesson content in detail (although you
+will gain familiarity with some of the content through the exercises),
+
+We also do not discuss *how* to develop lessons, although we do mention
+some aspects of lesson design. We include this information to help you as
+an instructor identify the important components of lessons for high
+impact, inclusive teaching.
+
+If there is a particular topic that you would like us to address, let the Trainers
+know.
+
+## What Questions Do You Have?
+
+We hope and expect that you will have many questions during this
+training! Please do not keep them to yourself. If you find something
+unclear, chances are good that others will have the same question, too.
+It is ok to ask even if you think you might have missed an answer already
+given (e.g. during a distracted moment or a dropped connection)!
+Depending on the time available, your Trainers may ask you to share your
+questions verbally, in the shared document, or otherwise.
+
+Now that we have a road map of what we are covering we are ready to begin
+our training. Our goal is that by the end, you will have acquired some
+new knowledge, confidence, and skills that you can use in your teaching
+practice in general and in teaching SRSG workshops specifically.
+
+:::::::::::::::::::::::::::::::::::::::: keypoints
+
+- The SRSG training community is a community of practice.
+- We strive to provide a welcoming environment for all learners and take our Code of Conduct seriously.
+- This training will cover evidence-based teaching practices and how they apply specifically to our workshops.
+- Learner motivation and prior knowledge vary widely.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[srsg-coc]: https://docs.google.com/document/d/19orFA18unJAFJQx9WxudzTHKyiRO6boOvwUmYA4lo_E/edit
+[it-pre-survey]: https://forms.cloud.microsoft/e/rkW0FSq2Cj
+
+
+
