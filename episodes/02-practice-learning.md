@@ -161,6 +161,8 @@ Returning to our example levels of skill development:
 
 5 mins.
 
+Good analogies can be very useful when teaching, because they draw upon an existing mental model to fill in another, speeding learning and making a memorable connection.
+
 Think of a concept, process or system from your own field that you've
 been taught or teach to others. Individually, identify a mental model
 (e.g. analogies, diagrams, simplified explanations or conceptual
@@ -269,39 +271,18 @@ it is too fast, they will never come back to programming. — Kunal
 Marwaha, SWC Instructor
 :::
 
-If our goal is to help novices construct an accurate and useful mental
-model of a new intellectual domain, this will impact our teaching. For
-example, we principally want to help learners form the right categories
-and make connections among concepts. We *do not* want to overload them
-with a slew of unrelated facts, as this will be confusing.
-
-An important practical implication of this latter point is the pace at
-which we teach. In the first main episode of the
-[lesson on the Unix shell](https://southampton-rsg-training.github.io/shell-novice/shell-novice-files-and-directories),
+For example, in the first main episode of the
+[lesson on the Unix shell](https://southampton-rsg-training.github.io/intro-software-dev/11-files-and-directories.html),
 which covers "Navigating Files and Directories", there are only four
 "commands" for 40 minutes of teaching. Ten minutes per command may seem
 glacially slow, but that episodes's real purpose is to teach learners
-about paths; later on, they will learn about history, wildcards, pipes
-and filters, command-line arguments, redirection, and all the other big
-ideas on which the shell depends, and without which people cannot
-understand how to use commands.
+about paths.
+Later on they will learn about history, wildcards, pipes
+and filters, command-line arguments, and more.
+All of these concepts require the learner to have a correct mental model of paths.
 
-That mental model of the shell also includes things like:
-
--   Anything you repeat manually, you will eventually get wrong (so let
-    the computer repeat things for you by using tab completion and the
-    `history` command).
--   Lots of little tools, combined as needed, are more productive than a
-    handful of programs. (This motivates the pipe-and-filter model.)
-
-These two examples illustrate something else as well. Learning consists
-of more than "just" adding information to mental models; creating
-linkages between concepts and facts is at least as important. Telling
-people that they should not repeat things, and that they should try to
-think (by analogy) in terms of little pieces loosely joined, both set
-the stage for discussing functions. Explicitly referring back to pipes
-and filters in the shell when introducing functions helps solidify both
-ideas.
+Learning consists of more than "just" adding information to mental models; creating
+linkages between concepts and facts is at least as important. 
 
 ::: callout
 
