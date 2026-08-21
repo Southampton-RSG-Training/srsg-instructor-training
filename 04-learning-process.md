@@ -202,33 +202,6 @@ expectation that people will, indeed, have questions, and should
 challenge themselves to formulate them.
 
 
-## Expert Advantages
-
-As we have seen, the high connectivity of an expert's mental model poses
-challenges while teaching novices. However, that is not to say that
-experts cannot be great teachers! Because of their well-connected
-knowledge, self-aware experts are well-poised to help students make
-meaningful connections, to confidently turn an error into a learning
-opportunity, or to explain a complex topic in multiple ways. Experts can
-be highly effective as long as they **learn to identify and correct for
-their own expert awareness gaps**. Whether or not you identify as an
-expert, we hope this episode has started you on the path toward
-developing that skill.
-
-
-## The Importance of Practice (Again)
-
-How can you make sure that expert awareness gaps are not negatively
-affecting your workshop? Keep in touch with your learners through
-frequent formative assessment! If you stumble into an expert awareness
-gap, create confusion by using interchangeable terms, or accidentally
-discourage rather than invite questions, formative assessment has the
-power to bring these problems to the surface. As you develop teaching
-skill, you may be able to avoid these pitfalls. Until then, becoming
-aware of when they occur will help you to keep their impact under
-control.
-
-
 ## Memory and Attention
 
 ### The Limits of Memory
@@ -367,18 +340,6 @@ memory.
   cognitive overload, and tools such as concept maps can help keep
   lessons appropriately scoped.
 
-A related attention issue is that of *self-imposed distraction* on the
-part of the learners. It's not uncommon for learners to attempt to engage
-with their day-to-day work within a workshop, such as dealing with emails
-and messaging colleagues on MS Teams or other platforms, or even writing
-code or documents unrelated to the training. This often has a profound
-effect on a learner's progress, who then may expect other learners,
-helpers or the instructor to catch them up which slows down a workshop.
-This should be discouraged, e.g. requesting that learners close emails,
-set messaging platforms to "do not disturb" mode, mute phone
-notifications, and not opening other browser tabs (and similarly, not
-pasting links into the chat unless necessary). Note that this also
-applies to helpers, who should be attentive to the needs of the learners!
 
   
 ### Cognitive Load
@@ -446,7 +407,20 @@ consolidation.
 While many people believe that they can "multi-task", the reality is that
 attention can only focus on one thing at a time. Adding items that demand
 attention adds more things to alternate between attending to, which can
-reduce efficiency and performance on all of them. In a teaching context, this means anything that pulls a learner's attention away from the task at hand, such as background noise, an unrelated notification, or a poorly laid-out slide, competes directly with their ability to take in and process new material, regardless of how well that material has been designed.
+reduce efficiency and performance on all of them. In a teaching context, this means anything that pulls a learner's attention away from the task at hand, such as background noise, an unrelated notification on the instructor's screen, or a poorly laid-out slide, competes directly with their ability to take in and process new material, regardless of how well that material has been designed.
+
+A related attention issue is that of *self-imposed distraction* on the
+part of the learners. It's not uncommon for learners to attempt to engage
+with their day-to-day work within a workshop, such as dealing with emails
+and messaging colleagues on MS Teams or other platforms, or even writing
+code or documents unrelated to the training. This often has a profound
+effect on a learner's progress, who then may expect other learners,
+helpers or the instructor to catch them up which slows down a workshop.
+This should be discouraged, e.g. requesting that learners close emails,
+set messaging platforms to "do not disturb" mode, mute phone
+notifications, and not opening other browser tabs (and similarly, not
+pasting links into the chat unless necessary). Note that this also
+applies to helpers, who should be attentive to the needs of the learners!
 
 
 [wikipedia-7]: https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two
