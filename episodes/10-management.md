@@ -100,7 +100,7 @@ people raise their hands because:
   to actually use these well (e.g. "please put up a blue sticky note if
   you completed the last step, and a yellow sticky note if you need
   help.").  
-- In online workshops, you can post a message in the chat and ask the learners to react with one emoji (e.g. smiley face) if they have completed the last step or another (e.g. a surprised face) if they need herlp. Zoom has a green "✓" and red "x" under "reactions". 
+- In online workshops, you can post a message in the chat and ask the learners to react with one emoji (e.g. smiley face) if they have completed the last step or another (e.g. a surprised face) if they need help. Zoom has a green "✓" and red "x" under "reactions". 
 
 :::::::::::::::::::::::::::::::::::::::::  callout
 
