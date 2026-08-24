@@ -62,39 +62,6 @@ Instructors have many choices about how to teach. However, there are a
 few teaching practices that are expected in all Carpentries-style workshops including SRSG workshops.
 These include:
 
-### Review Learner Responses to the Pre-workshop Survey
-
-Before the workshop, learners should be sent a pre-workshop survey to complete.
-
-Firstly, these surveys typically ask questions about:
-
-- The operating system they'll use at the workshop (i.e. Windows, Linux, Mac OS)
-- Career stage:
-  - **Phase 1 - Junior** (e.g. PhD candidate, Junior Research Software Engineer)
-  - **Phase 2 - Early** (e.g. Research Assistant/Associate, first grant holder, Lecturer, Research Software Engineer)
-  - **Phase 3 - Mid / Recognised** (e.g. Senior Lecturer, Reader, Senior Researcher, Senior Research Software Engineer)
-  - **Phase 4 - Established / Experienced / Senior** (e.g. Professor, Director of Research Computing, Distinguished Engineer, Chief Data Scientist)
-- Where they are based (faculty and school/department)
-
-They also ask a number of similarly formatted questions about technical
-ability on the topics covered in the course. This is particularly useful
-to identify areas where the cohort is generally strongest and weakest,
-which may indicate where you might find they're already familiar with the
-material, or where you might encounter challenges. For example for the
-Bash shell, a question could be "Given a directory containing 1000 text
-files, could you write shell/bash commands to list all the files that
-contain a specific word and then save the result to a text file?", with
-the options:
-
-- **Yes - without help:** they can do the task without any assistance or guidance
-- **Yes - with notes from previous learning:** they can do the task whilst referring to notes from either previous self-learning or a training course
-- **No**: they judge themselves incapable of doing the task
-
-This pre-workshop data is also used as a baseline to compare against
-feedback on the same technical ability questions in the post-workshop
-surveys, to determine the extent to which learning took place on the
-covered topics.
-
 ### Starting with the Code of Conduct
 
 A workshop should always start with a brief introduction to the SRSG Code
@@ -265,7 +232,42 @@ make a difference.
 
 We ask learners to complete pre-workshop and post-workshop surveys. 
 
-In the pre-workshop survey we assess the baseline skills of the learners as well as some attendee information such as department, career stage and operating system.  We use this information to tailor the delivery to the skill level and research area of the learners. This survey should be sent out to the learners prior to the workshop but often many learners have not completed it by the start of the workshop.  Therefore, while waiting for learners to arrive, encourage those already there to complete the pre-workshop survey if they haven't already.
+### Pre-workshop
+
+### Review Learner Responses to the Pre-workshop Survey
+
+This survey should be sent out to the learners prior to the workshop but often many learners have not completed it by the start of the workshop.  Therefore, while waiting for learners to arrive, encourage those already there to complete the pre-workshop survey if they haven't already.
+
+Firstly, these surveys typically ask questions about:
+
+- The operating system they'll use at the workshop (i.e. Windows, Linux, Mac OS)
+- Career stage:
+  - **Phase 1 - Junior** (e.g. PhD candidate, Junior Research Software Engineer)
+  - **Phase 2 - Early** (e.g. Research Assistant/Associate, first grant holder, Lecturer, Research Software Engineer)
+  - **Phase 3 - Mid / Recognised** (e.g. Senior Lecturer, Reader, Senior Researcher, Senior Research Software Engineer)
+  - **Phase 4 - Established / Experienced / Senior** (e.g. Professor, Director of Research Computing, Distinguished Engineer, Chief Data Scientist)
+- Where they are based (faculty and school/department)
+
+They also ask a number of similarly formatted questions about technical
+ability on the topics covered in the course. This is particularly useful
+to identify areas where the cohort is generally strongest and weakest,
+which may indicate where you might find they're already familiar with the
+material, or where you might encounter challenges. For example for the
+Bash shell, a question could be "Given a directory containing 1000 text
+files, could you write shell/bash commands to list all the files that
+contain a specific word and then save the result to a text file?", with
+the options:
+
+- **Yes - without help:** they can do the task without any assistance or guidance
+- **Yes - with notes from previous learning:** they can do the task whilst referring to notes from either previous self-learning or a training course
+- **No**: they judge themselves incapable of doing the task
+
+This pre-workshop data is also used as a baseline to compare against
+feedback on the same technical ability questions in the post-workshop
+surveys, to determine the extent to which learning took place on the
+covered topics.
+
+### Post-workshop survey
 
 After the workshop we ask the same skill questions as the pre-workshop survey so that we can assess whether those skills were learnt during the workshop. We also ask some questions about the workshop experience such as the speed, difficulty and amount of content, which we use to adapt the content for future workshops.
 
