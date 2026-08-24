@@ -62,20 +62,9 @@ Instructors have many choices about how to teach. However, there are a
 few teaching practices that are expected in all Carpentries-style workshops including SRSG workshops.
 These include:
 
-### Starting with the Code of Conduct
-
-A workshop should always start with a brief introduction to the SRSG Code
-of Conduct (as we did with this Instructor Training workshop - see the
-[Welcome episode](01-welcome.md)'s section on the Code of Conduct).
-
-### Participatory Instruction \& Hands-off Help
-
-Whether you are teaching via live coding or live demonstration, your
-learners should be actively working along with you wherever possible.
-Similarly, when receiving assistance, learners should be doing the typing
-whenever possible.
-
 ### Review Learner Responses to the Pre-workshop Survey
+
+Before the workshop, learners should be sent a pre-workshop survey to complete.
 
 Firstly, these surveys typically ask questions about:
 
@@ -105,6 +94,20 @@ This pre-workshop data is also used as a baseline to compare against
 feedback on the same technical ability questions in the post-workshop
 surveys, to determine the extent to which learning took place on the
 covered topics.
+
+### Starting with the Code of Conduct
+
+A workshop should always start with a brief introduction to the SRSG Code
+of Conduct (as we did with this Instructor Training workshop - see the
+[Welcome episode](01-welcome.md)'s section on the Code of Conduct).
+
+### Participatory Instruction \& Hands-off Help
+
+Whether you are teaching via live coding or live demonstration, your
+learners should be actively working along with you wherever possible.
+Similarly, when receiving assistance, learners should be doing the typing
+whenever possible.
+
 
 ### Learners Use Their Own Machines
 
