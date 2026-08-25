@@ -8,8 +8,6 @@ Training curriculum! This training resource is based on [The Carpentries][carpen
 originally developed in 2015 and is maintained by The Carpentries
 training community.
 
-TODO: how SRSG-centric do we want the language to be? how should we relate it to the Carpentries?
-
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
 ### A note about instructor view
